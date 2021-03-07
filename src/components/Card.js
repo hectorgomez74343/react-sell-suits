@@ -38,7 +38,6 @@ class Card extends React.Component {
     return (
       <div className="Card" onClick={this.routeToScheduler}>
         <img src={image} alt={title} />
-        <h3>{title}</h3>
         <h3>{text}</h3>
       </div>
     );

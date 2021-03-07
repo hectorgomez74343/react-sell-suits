@@ -1,6 +1,19 @@
+h3 {
+  color: white;
+  font-size: 25px;
+  margin-top: 1rem;
+  width: 190px;
+  text-align: center;
+}
+
+.phone-number {
+  color: white;
+  text-align: center;
+}
+
 .Card {
   width: 300px;
-  height: 9rem;
+  height: 15rem;
   position: relative;
   overflow: hidden;
   border-radius: 20px;
@@ -13,35 +26,26 @@
   justify-content: center;
 }
 
-/* .Card:hover {
+.Card:hover {
   transform: scale(1.1, 1.1);
   box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
 }
 
+.Card:hover h3 {
+  color: black;
+}
+
 .Card:hover img {
-  transform: translateY(-20px);
-} */
+  transform: translateY(1px);
+}
 
 .Card img {
   position: absolute;
   top: 0;
-  height: 9rem;
+  height: 15rem;
   width: 100%;
   z-index: -1;
   transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
-h3 {
-  color: white;
-  font-size: 20px;
-  margin-top: 1rem;
-  width: 190px;
-  text-align: center;
-}
-
-.phone-number {
-  color: white;
-  text-align: center;
 }
 
 .Card p {
