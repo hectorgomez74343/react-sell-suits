@@ -70,6 +70,7 @@ class IndexPage extends React.Component {
             <div className="link-to-flex-box">
               <img
                 alt="github"
+                id="git-link"
                 className="link-to-image"
                 src="/images/github.png"
                 onClick={this.routeToGitHub}

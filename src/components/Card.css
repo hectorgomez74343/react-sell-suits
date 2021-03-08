@@ -6,6 +6,10 @@ h3 {
   text-align: center;
 }
 
+#git-link {
+  margin-right: 10px;
+}
+
 .phone-number {
   color: white;
   text-align: center;
