@@ -6,7 +6,7 @@ import "./Card.css";
 
 class Card extends React.Component {
   routeToScheduler = () => {
-    const { title } = this.props;
+    const { title, history } = this.props;
     if (title === "Apple Inc.") {
       window.open("https://getsupport.apple.com/");
     }
@@ -30,6 +30,36 @@ class Card extends React.Component {
     }
     if (title === "Booz Allen Hamilton") {
       window.open("https://www.boozallen.com/");
+    }
+    if (title === "Apple-Invention") {
+      window.open("https://nervous-ptolemy-da28fd.netlify.app/#/");
+    }
+    if (title === "AM-Charts-Invention") {
+      window.open("https://hardcore-blackwell-f07055.netlify.app/#/");
+    }
+    if (title === "Legal-Agreement-Invention") {
+      window.open("https://wonderful-gates-dd54ef.netlify.app/#/");
+    }
+    if (title === "Messenger-Invention") {
+      window.open("https://frosty-torvalds-48d977.netlify.app/#/");
+    }
+    if (title === "Designer-Invention") {
+      window.open("https://nifty-lamarr-6dcda8.netlify.app/#/");
+    }
+    if (title === "Food-Invention") {
+      window.open("https://zealous-cray-1320e9.netlify.app/#/");
+    }
+    if (title === "Medical-Invention") {
+      window.open("https://sad-noyce-f810c7.netlify.app/#/");
+    }
+    if (title === "Food-Dashboard-Invention") {
+      window.open("https://focused-euclid-5087a4.netlify.app/#/");
+    }
+    if (title === "Portfolio-Invention") {
+      history.push("/");
+    }
+    if (title === "Inventions") {
+      history.push("/inventions");
     }
   };
 

@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./Card";
 import { withRouter } from "react-router-dom";
 
-class IndexPage extends React.Component {
+class Inventions extends React.Component {
   routeToLinkedIn = () => {
     window.open("https://www.linkedin.com/in/hector-gomez-5749831b9/");
   };
@@ -15,56 +15,55 @@ class IndexPage extends React.Component {
         <div className="row">
           <div className="col">
             <div className="Cards">
-              <h2>Hector Gomez Portfolio</h2>
+              <h2>Inventions</h2>
               <h4 className="phone-number">
-                Select an image to be routed to the company I worked for and see
-                what I've built.
+                Select an image to be routed to the invention I've created.
               </h4>
               <div className="CardGroup">
                 <Card
-                  title="Apple Inc."
+                  title="Apple-Invention"
                   text="Click here"
-                  image="/images/applecomputers.jpg"
+                  image="/images/applestoreinvention.png"
                 />
                 <Card
-                  title="Digital Harmonic"
+                  title="AM-Charts-Invention"
                   text="Click here"
-                  image="/images/dh.jpg"
+                  image="/images/amchartsinventions.png"
                 />
                 <Card
-                  title="Vertex"
+                  title="Legal-Agreement-Invention"
                   text="Click here"
-                  image="/images/vertex.png"
+                  image="/images/legalagreementinvention.png"
                 />
                 <Card
-                  title="Express"
+                  title="Messenger-Invention"
                   text="Click here"
-                  image="/images/expresstwo.png"
+                  image="/images/messengerinvention.png"
                 />
                 <Card
-                  title="Card Connect"
+                  title="Designer-Invention"
                   text="Click here"
-                  image="/images/cardconnect.png"
+                  image="/images/designerinvention.png"
                 />
                 <Card
-                  title="Comcast"
+                  title="Food-Invention"
                   text="Click here"
-                  image="/images/comcast.jpeg"
+                  image="/images/foodpollinvention.png"
                 />
                 <Card
-                  title="Hexagon"
+                  title="Medical-Invention"
                   text="Click here"
-                  image="/images/hexagon.jpg"
+                  image="/images/dashboardmedicalinvention.png"
                 />
                 <Card
-                  title="Booz Allen Hamilton"
+                  title="Food-Dashboard-Invention"
                   text="Click here"
-                  image="/images/boozallenhamilton.png"
+                  image="/images/foodinventiondashboard.png"
                 />
                 <Card
-                  title="Inventions"
+                  title="Portfolio-Invention"
                   text="Click here"
-                  image="/images/inventions.jpg"
+                  image="/images/portfoliodashboard.png"
                 />
               </div>
             </div>
@@ -94,4 +93,4 @@ class IndexPage extends React.Component {
   }
 }
 
-export default withRouter(IndexPage);
+export default withRouter(Inventions);
