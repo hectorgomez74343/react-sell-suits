@@ -18,7 +18,7 @@ class IndexPage extends React.Component {
               <h2>Hector Gomez Portfolio</h2>
               <h4 className="phone-number">
                 Select an image to be routed to the company I worked for and see
-                what I build.
+                what I've built.
               </h4>
               <div className="CardGroup">
                 <Card
