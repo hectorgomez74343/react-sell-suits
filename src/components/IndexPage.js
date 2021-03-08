@@ -3,6 +3,12 @@ import Card from "./Card";
 import { withRouter } from "react-router-dom";
 
 class IndexPage extends React.Component {
+  routeToLinkedIn = () => {
+    window.open("https://www.linkedin.com/in/hector-gomez-5749831b9/");
+  };
+  routeToGitHub = () => {
+    window.open("https://github.com/hectorgomez74343?tab=repositories");
+  };
   render() {
     return (
       <div className="container">
@@ -56,6 +62,24 @@ class IndexPage extends React.Component {
                   image="/images/boozallenhamilton.png"
                 />
               </div>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col">
+            <div className="link-to-flex-box">
+              <img
+                alt="github"
+                className="link-to-image"
+                src="/images/github.png"
+                onClick={this.routeToGitHub}
+              />
+              <img
+                alt="linkedin"
+                className="link-to-image"
+                src="/images/linkedin.png"
+                onClick={this.routeToLinkedIn}
+              />
             </div>
           </div>
         </div>
