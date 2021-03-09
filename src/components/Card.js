@@ -55,6 +55,9 @@ class Card extends React.Component {
     if (title === "Food-Dashboard-Invention") {
       window.open("https://focused-euclid-5087a4.netlify.app/#/");
     }
+    if (title === "3D-Invention") {
+      window.open("https://epic-carson-7ef4cd.netlify.app/#/");
+    }
     if (title === "Portfolio-Invention") {
       history.push("/");
     }
