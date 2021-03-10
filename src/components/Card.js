@@ -58,6 +58,9 @@ class Card extends React.Component {
     if (title === "3D-Invention") {
       window.open("https://epic-carson-7ef4cd.netlify.app/#/");
     }
+    if (title === "Internet-Cable-Phone-Invention") {
+      window.open("https://musing-brown-09131d.netlify.app/#/");
+    }
     if (title === "Portfolio-Invention") {
       history.push("/");
     }
