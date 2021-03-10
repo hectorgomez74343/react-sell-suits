@@ -32,7 +32,7 @@ class Card extends React.Component {
       window.open("https://www.boozallen.com/");
     }
     if (title === "Apple-Invention") {
-      window.open("https://nervous-ptolemy-da28fd.netlify.app/#/");
+      window.open("https://adoring-stonebraker-de43d9.netlify.app/#/");
     }
     if (title === "AM-Charts-Invention") {
       window.open("https://hardcore-blackwell-f07055.netlify.app/#/");
