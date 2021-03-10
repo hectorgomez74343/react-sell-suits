@@ -72,11 +72,6 @@ class Inventions extends React.Component {
                   image="/images/foodpollinvention.png"
                 />
                 <Card
-                  title="Food-Dashboard-Invention"
-                  text="Click here"
-                  image="/images/foodinventiondashboard.png"
-                />
-                <Card
                   title="Portfolio-Invention"
                   text="Click here"
                   image="/images/portfoliodashboard.png"
