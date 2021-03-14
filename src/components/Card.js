@@ -64,6 +64,9 @@ class Card extends React.Component {
     if (title === "Suit-Invention") {
       window.open("https://hopeful-golick-8e557e.netlify.app/#/");
     }
+    if (title === "Video-Game-Invention") {
+      window.open("https://ecstatic-swartz-14c0e8.netlify.app/#/");
+    }
     if (title === "Portfolio-Invention") {
       history.push("/");
     }

@@ -41,6 +41,11 @@ class Inventions extends React.Component {
                   image="/images/suitstore.png"
                 />
                 <Card
+                  title="Video-Game-Invention"
+                  text="Click here"
+                  image="/images/videogameconsolestore.png"
+                />
+                <Card
                   title="Medical-Invention"
                   text="Click here"
                   image="/images/dashboardmedicalinvention.png"
