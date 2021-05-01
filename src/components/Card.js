@@ -1,10 +1,11 @@
 import React from "react";
 import { connect } from "react-redux";
 import { withRouter } from "react-router-dom";
+
 import { addOrderType } from "../redux/actions/ordersActions";
 import "./Card.css";
 
-class Card extends React.Component {
+class Card extends React.PureComponent {
   routeToScheduler = () => {
     const { title, history } = this.props;
     if (title === "Apple Inc.") {

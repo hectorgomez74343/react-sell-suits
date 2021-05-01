@@ -1,8 +1,9 @@
 import React from "react";
-import Card from "./Card";
 import { withRouter } from "react-router-dom";
 
-class Inventions extends React.Component {
+import Card from "./Card";
+
+class Inventions extends React.PureComponent {
   routeToLinkedIn = () => {
     window.open("https://www.linkedin.com/in/hector-gomez-5749831b9/");
   };
