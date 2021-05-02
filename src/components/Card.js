@@ -68,6 +68,9 @@ class Card extends React.PureComponent {
     if (title === "Video-Game-Invention") {
       window.open("https://ecstatic-swartz-14c0e8.netlify.app/#/");
     }
+    if (title === "Blog") {
+      window.open("https://www.newsappinternational.com/#/");
+    }
     if (title === "Portfolio-Invention") {
       history.push("/");
     }

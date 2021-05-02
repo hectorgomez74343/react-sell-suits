@@ -87,6 +87,7 @@ class Inventions extends React.PureComponent {
                   text="Click here"
                   image="/images/portfoliodashboard.png"
                 />
+                <Card title="Blog" text="Click here" image="/images/blog.png" />
               </div>
             </div>
           </div>
