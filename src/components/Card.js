@@ -36,16 +36,16 @@ class Card extends React.PureComponent {
       window.open("https://adoring-stonebraker-de43d9.netlify.app/#/");
     }
     if (title === "AM-Charts-Invention") {
-      window.open("https://hardcore-blackwell-f07055.netlify.app/#/");
+      window.open("https://priceless-allen-a7a4e4.netlify.app");
     }
     if (title === "Legal-Agreement-Invention") {
       window.open("https://wonderful-gates-dd54ef.netlify.app/#/");
     }
     if (title === "Messenger-Invention") {
-      window.open("https://frosty-torvalds-48d977.netlify.app/#/");
+      window.open("https://boring-engelbart-07fa66.netlify.app/#/");
     }
     if (title === "Designer-Invention") {
-      window.open("https://nifty-lamarr-6dcda8.netlify.app/#/");
+      window.open("https://stupefied-yalow-9f180b.netlify.app/#/");
     }
     if (title === "Food-Invention") {
       window.open("https://zealous-cray-1320e9.netlify.app/#/");
