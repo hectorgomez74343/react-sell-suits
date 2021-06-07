@@ -1,6 +1,21 @@
 import React from "react";
 import { withRouter } from "react-router-dom";
-
+import appleStoreInvention from "../images/applestoreinvention.png";
+import foodInventionDashboard from "../images/foodinventiondashboard.png";
+import internetCableInvention from "../images/internetcablephoneinvention.png";
+import suitStoreInvention from "../images/suitstore.png";
+import videoGameConsoleInvention from "../images/videogameconsolestore.png";
+import dashboardMedicalInvention from "../images/dashboardmedicalinvention.png";
+import amChartsInvetion from "../images/amchartsinventions.png";
+import threeDInvention from "../images/3Dtictactoeinvention.png";
+import legalAgreementInvention from "../images/legalagreementinvention.png";
+import messengerInvention from "../images/messengerinvention.png";
+import designerInvention from "../images/designerinvention.png";
+import foodPollInvention from "../images/foodpollinvention.png";
+import portfolioDashboardInvention from "../images/portfoliodashboard.png";
+import blogInvention from "../images/blog.png";
+import githubLogo from "../images/github.png";
+import linkedLogo from "../images/linkedin.png";
 import Card from "./Card";
 
 class Inventions extends React.PureComponent {
@@ -24,70 +39,70 @@ class Inventions extends React.PureComponent {
                 <Card
                   title="Apple-Invention"
                   text="Click here"
-                  image="/images/applestoreinvention.png"
+                  image={appleStoreInvention}
                 />
                 <Card
                   title="Food-Dashboard-Invention"
                   text="Click here"
-                  image="/images/foodinventiondashboard.png"
+                  image={foodInventionDashboard}
                 />
                 <Card
                   title="Internet-Cable-Phone-Invention"
                   text="Click here"
-                  image="/images/internetcablephoneinvention.png"
+                  image={internetCableInvention}
                 />
                 <Card
                   title="Suit-Invention"
                   text="Click here"
-                  image="/images/suitstore.png"
+                  image={suitStoreInvention}
                 />
                 <Card
                   title="Video-Game-Invention"
                   text="Click here"
-                  image="/images/videogameconsolestore.png"
+                  image={videoGameConsoleInvention}
                 />
                 <Card
                   title="Medical-Invention"
                   text="Click here"
-                  image="/images/dashboardmedicalinvention.png"
+                  image={dashboardMedicalInvention}
                 />
                 <Card
                   title="AM-Charts-Invention"
                   text="Click here"
-                  image="/images/amchartsinventions.png"
+                  image={amChartsInvetion}
                 />
 
                 <Card
                   title="3D-Invention"
                   text="Click here"
-                  image="/images/3Dtictactoeinvention.png"
+                  image={threeDInvention}
                 />
                 <Card
                   title="Legal-Agreement-Invention"
                   text="Click here"
-                  image="/images/legalagreementinvention.png"
+                  image={legalAgreementInvention}
                 />
                 <Card
                   title="Messenger-Invention"
                   text="Click here"
-                  image="/images/messengerinvention.png"
+                  image={messengerInvention}
                 />
                 <Card
                   title="Designer-Invention"
                   text="Click here"
-                  image="/images/designerinvention.png"
+                  image={designerInvention}
                 />
                 <Card
                   title="Food-Invention"
                   text="Click here"
-                  image="/images/foodpollinvention.png"
+                  image={foodPollInvention}
                 />
                 <Card
                   title="Portfolio-Invention"
                   text="Click here"
-                  image="/images/portfoliodashboard.png"
+                  image={portfolioDashboardInvention}
                 />
-                <Card title="Blog" text="Click here" image="/images/blog.png" />
+                <Card title="Blog" text="Click here" image={blogInvention} />
               </div>
             </div>
           </div>
@@ -99,13 +114,13 @@ class Inventions extends React.PureComponent {
                 alt="github"
                 id="git-link"
                 className="link-to-image"
-                src="/images/github.png"
+                src={githubLogo}
                 onClick={this.routeToGitHub}
               />
               <img
                 alt="linkedin"
                 className="link-to-image"
-                src="/images/linkedin.png"
+                src={linkedLogo}
                 onClick={this.routeToLinkedIn}
               />
             </div>
