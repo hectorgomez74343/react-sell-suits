@@ -9,4 +9,4 @@ npm start
 To build run
 npm run build
 
-Here is an example below of how the website looks https://stupefied-yalow-9f180b.netlify.app/#/
+Here is an example below of how the website looks https://www.hgomezportfolio.com
