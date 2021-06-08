@@ -1,0 +1,1421 @@
+{
+  "status": "ok",
+  "totalResults": 48385,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "The new Apple TV 4K arrives with HDMI 2.1, Thread wireless tech",
+      "description": "The new Apple TV has HDMI 2.1 and a new type of mesh networking technology built-in.",
+      "url": "https://www.engadget.com/apple-tv-4k-120hz-thread-033604038.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/67ac3890-a252-11eb-bbad-185a09c4ac4e",
+      "publishedAt": "2021-04-21T03:36:04Z",
+      "content": "Earlier today Apple introduced a new Apple TV 4K box (and a redesigned Siri remote that should be easier to use), and a close look at the spec sheet reveals a few more details about what it can do. \r… [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Derrek Lee",
+      "title": "Google's Guacamole prepares voice commands without 'Hey Google' wake word",
+      "description": "Get ready for new ways to command Assistant without shouting \"Hey Google.\"\n\nWhat you need to know\n\n\nA new Google Assistant feature has been spotted dubbed \"Guacamole.\"\nGuacamole appears to be related to voice command shortcuts that don't require the \"Hey Goog…",
+      "url": "https://www.androidcentral.com/google-prepares-assistant-voice-shortcuts-without-wake-word",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/google-assistant-white-01.jpg",
+      "publishedAt": "2021-04-23T22:59:42Z",
+      "content": "Google is continuously looking for ways to make Assistant easier to use. The company recently launched a series of new features like an autofill feature to complete your online orders and a feature t… [+1442 chars]"
+    },
+
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Kellen Beck",
+      "title": "The most stunning space photos of 2021 so far",
+      "description": "The never-ending nature of space is incredible to behold: Brilliant nebulae, massive spiral galaxies, orbiting planets, and everything in between offer up inspiring and mind-bending views, courtesy of our most powerful telescopes and exploratory spacecraft.\nT…",
+      "url": "https://mashable.com/article/stunning-space-photos-2021/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F16%252Fe4%252Ff6201ce9a60f48ef85442118f36d65da.17196.png%252F1200x630.png?signature=EKcpWJv_5b-gEPj_ScsohiMo3Cc=",
+      "publishedAt": "2021-04-24T09:00:00Z",
+      "content": "The never-ending nature of space is incredible to behold: Brilliant nebulae, massive spiral galaxies, orbiting planets, and everything in between offer up inspiring and mind-bending views, courtesy o… [+7578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Victoria Gomelsky",
+      "title": "Technology Could Turn You Into a Tiffany",
+      "description": "Augmented reality, 3-D printing and other advances are changing the jewelry business. Soon, they might help you become your own designer.",
+      "url": "https://www.nytimes.com/2021/04/23/fashion/jewelry-technology-augmented-reality.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/04/26/multimedia/26sp-jewelrytech-inyt1/26sp-jewelrytech-inyt1-facebookJumbo.jpg",
+      "publishedAt": "2021-04-23T09:08:10Z",
+      "content": "The high end, however, also sees opportunities. Tiffany &amp; Company, for example, has used parametric design and additive manufacturing to create prototypes at its three-year-old Jewelry Design and… [+1862 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "iOS 15 may revamp notifications and the iPad home screen",
+      "description": "Apple is reportedly planning to give iOS 15 significant upgrades to notifications, the iPad home screen and the lock screen.",
+      "url": "https://www.engadget.com/apple-ios-15-ipados-15-leak-124836745.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/7d716ff0-a366-11eb-bfff-e509ee700165",
+      "publishedAt": "2021-04-22T12:48:36Z",
+      "content": "There's little doubt that Apple will reveal the next versions of iOS and iPadOS at WWDC, but there are now inklings of what that will entail. Bloombergsources say iOS 15 and its iPadOS 15 equivalent … [+1658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Dave Itzkoff",
+      "title": "Elon Musk to Host ‘Saturday Night Live’",
+      "description": "Musk, who runs Tesla and SpaceX, will become the rare “S.N.L.” host not from the worlds of entertainment, politics or sports.",
+      "url": "https://www.nytimes.com/2021/04/24/arts/elon-musk-snl.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/04/24/us/24musk/24musk-facebookJumbo.jpg",
+      "publishedAt": "2021-04-24T21:52:07Z",
+      "content": "Musk, 49, has previously appeared on shows like South Park, The Simpsons and Rick and Morty and in films like Iron Man 2 and has gained an online following for initiatives like his recent announcemen… [+1037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Eleanor Semeraro, iSpot.tv",
+      "title": "Nintendo ads generate 9 out of 10 TV impressions in March-April",
+      "description": "From March 16 through April 15, Nintendo accounted for 90% of the game industry's total TV ad impressions.",
+      "url": "https://venturebeat.com/2021/04/24/nintendo-ads-generate-9-out-of-10-tv-impressions-in-march-april/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2021/04/iSpottv-March-April.png?w=1200&strip=all",
+      "publishedAt": "2021-04-24T13:16:17Z",
+      "content": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today.\r\nNintendo continues to be a powerhouse for the video game industry when it comes to TV advertising. From March 16 t… [+3422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIYphotography"
+      },
+      "author": "John Aldred",
+      "title": "Fujifilm teams up with Nintendo for a themed Instax printer for Nintendo Switch",
+      "description": "Well, this is an odd one. Fujifilm has announced an unlikely collaboration with Nintendo. They’re releasing a Nintendo-themed Instax Mini Link app that works via your smartphone for the Nintendo Switch. It’s not designed for printing photographs, though… Well…",
+      "url": "https://www.diyphotography.net/fujifilm-teams-up-with-nintendo-for-a-themed-instax-printer-for-nintendo-switch/",
+      "urlToImage": "https://s23527.pcdn.co/wp-content/uploads/2021/04/nintendo-fuji.jpg.optimal.jpg",
+      "publishedAt": "2021-04-23T20:24:32Z",
+      "content": "Well, this is an odd one. Fujifilm has announced an unlikely collaboration with Nintendo. They’re releasing a Nintendo-themed Instax Mini Link app that works via your smartphone for the Nintendo Swit… [+1273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+      "title": "Nintendo Launches Switch Customizing Platform",
+      "description": "Nintendo has just announced the launch of its \"Nintendo Switch Customize\" platform. This new store allows for gamers to customize the colors of their Switches via the Joy-Con and Joy-Con strap. Priced at ¥32,978 JPY (approximately $305 USD), there are a numbe…",
+      "url": "https://hypebeast.com/2021/4/nintendo-switch-customize-joy-con-may-release",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F04%2Fnintendo-switch-customize-joy-con-may-release-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2021-04-23T06:55:02Z",
+      "content": "Nintendo has just announced the launch of its “Nintendo Switch Customize” platform. This new store allows for gamers to customize the colors of their Switches via the Joy-Con and Joy-Con strap. \r\nPri… [+418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Community"
+      },
+      "author": "Ida Torres",
+      "title": "Fujifilm releases special app for instax mini Link for Nintendo Switch",
+      "description": "If you play a lot of games on your Nintendo Switch, there are times when you probably want to print out a screenshot of a perfect score or a great game as a remembrance. Fujifilm and Nintendo are now collaborating on a new app that will make it easier for you…",
+      "url": "https://androidcommunity.com/fujifilm-releases-special-app-for-instax-mini-link-for-nintendo-switch-20210424/",
+      "urlToImage": "https://cdn.androidcommunity.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-24-at-6.42.14-PM.jpg",
+      "publishedAt": "2021-04-24T10:43:52Z",
+      "content": "If you play a lot of games on your Nintendo Switch, there are times when you probably want to print out a screenshot of a perfect score or a great game as a remembrance. Fujifilm and Nintendo are now… [+1995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Rachel Kaser",
+      "title": "There are the Best Nintendo Switch Games to Buy in April 2021: Animal Crossing, Fire Emblem, and more!",
+      "description": "The Nintendo Switch is an extraordinary console, a hybrid that combines the portability of a handheld with the power of a standalone device. It also has a huge library of games you can’t play on any other console — so many, in fact, that it can be hard to kno…",
+      "url": "https://www.xda-developers.com/best-nintendo-switch-games/",
+      "urlToImage": "https://www.xda-developers.com/files/2021/04/Best-Nintendo-Switch-Games-2-Web.jpg",
+      "publishedAt": "2021-04-24T11:30:02Z",
+      "content": "The Nintendo Switch is an extraordinary console, a hybrid that combines the portability of a handheld with the power of a standalone device. It also has a huge library of games you cant play on any o… [+17917 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Alex Perry",
+      "title": "Three simple ways to connect an iPhone to a TV",
+      "description": "If you're reading this, you must be familiar with one of the classic dilemmas of the modern age: You're looking at something on your iPhone and you desperately wish it was on your TV across the room instead.\nAfter all, why look at a small screen when a big on…",
+      "url": "https://mashable.com/article/how-to-connect-iphone-to-tv/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F24%252Fc2%252F6f036a26be294f499cffa4a2b946bb6f.a5376.jpg%252F1200x630.jpg?signature=F6lxFJXDCVhEZuHAkzU7X8MCxjA=",
+      "publishedAt": "2021-04-24T22:00:00Z",
+      "content": "If you're reading this, you must be familiar with one of the classic dilemmas of the modern age: You're looking at something on your iPhone and you desperately wish it was on your TV across the room … [+5555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Rick Broida",
+      "title": "Start your Saturday with a $5 Echo Dot when you subscribe to Amazon Music - CNET",
+      "description": "That's a pretty sweet price, but there's an important catch. Can you guess?",
+      "url": "https://www.cnet.com/home/smart-home/start-your-saturday-with-a-5-echo-dot-when-you-subscribe-to-amazon-music/",
+      "urlToImage": "https://www.cnet.com/a/img/owxZH6CnB3xG48UATlWbIeDqxyU=/1200x630/2019/10/24/cc2befef-debf-46ad-a935-3b99ba529325/echo-dot-3rd-gen-charcoal.jpg",
+      "publishedAt": "2021-04-24T14:13:00Z",
+      "content": "This deal isn't as great as the old deal, but if you're eligible, it's still a pretty good one.\r\nAmazon\r\nProof positive that Amazon is willing to practically give away Echo Dot smart speakers, the co… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Steven Petite",
+      "title": "Walmart Has Adorable New Pokemon Snap Bundles For Preorder—If You Hurry",
+      "description": "If you haven't preordered New Pokemon Snap for Nintendo Switch, Walmart has a pair of adorable bundles up for grabs. The bundles cost $60 each--the regular list price of the game--and come with Pokemon-themed hats. We imagine these will sell out before the ga…",
+      "url": "https://www.gamespot.com/articles/walmart-has-adorable-new-pokemon-snap-bundles-for-preorder-if-you-hurry/1100-6490564/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1595/15950357/3822938-newpokemonsnap.jpg",
+      "publishedAt": "2021-04-23T19:28:00Z",
+      "content": "If you haven't preordered New Pokemon Snap for Nintendo Switch, Walmart has a pair of adorable bundles up for grabs. The bundles cost $60 each--the regular list price of the game--and come with Pokem… [+915 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Rick Broida",
+      "title": "Apple AirTags: 3 ways they're better than Tile trackers - CNET",
+      "description": "I was really excited about Apple's new product -- until I learned about these shortcomings.",
+      "url": "https://www.cnet.com/news/apple-airtags-3-ways-theyre-better-than-tile-trackers-3-ways-theyre-worse/",
+      "urlToImage": "https://www.cnet.com/a/img/A7YspNVAXj5qmQ30oM338uSthLE=/1200x630/2021/04/22/750120dc-dc59-4f5f-a7a6-9d1067c44956/021-apple-airtag-2021.jpg",
+      "publishedAt": "2021-04-23T17:19:38Z",
+      "content": "Without a case, you can't really attach an AirTag to anything.\r\nPatrick Holland/CNET\r\nApple's AirTags are here or will be soon -- preorders start today -- and by all accounts they're a great way to h… [+4293 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Steve Banker, Contributor, \n Steve Banker, Contributor\n https://www.forbes.com/sites/stevebanker/",
+      "title": "Walmart’s Massive Investment In A Supply Chain Transformation",
+      "description": "Walmart is making massive investments to improve their supply chain. The retailer has invested more than $11 billion in this area over the last two years. In particular, they seek to sell more in the ecommerce channel and better compete with Amazon.",
+      "url": "https://www.forbes.com/sites/stevebanker/2021/04/23/walmarts-massive-investment-in-a-supply-chain-transformation/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6082c80a97dcdf9cd4bd6a34%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D909%26cropY1%3D144%26cropY2%3D503",
+      "publishedAt": "2021-04-23T13:20:21Z",
+      "content": "David Guggina, SVP Supply Chain at Walmart, speaking at the virtual Blue Yonder Icon Conference\r\nSteve Banker\r\nWalmart \r\n WMT\r\n has been very open about what it takes to better compete with Amazon \r\n… [+8166 chars]"
+    },
+
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joseph Green",
+      "title": "All the best robot vacuums for keeping small spaces neat and tidy",
+      "description": "You might have given up on the idea of using a robot vacuum in your small space, but it turns out that you can still rely on these devices to get the job done. Robot vacuum bases tend to need ample room around them so the vacuum sensors can find their way hom…",
+      "url": "https://mashable.com/uk/roundup/best-robot-vacuums-for-small-spaces-uk/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F22%252F17%252Fd83455d0e9d24bb4928c38b74a6b988a.02f26.png%252F1200x630.png?signature=EM4nIl4u8j7Z4y3i1OGDOUSsUsU=",
+      "publishedAt": "2021-04-25T03:55:00Z",
+      "content": "You might have given up on the idea of using a robot vacuum in your small space, but it turns out that you can still rely on these devices to get the job done. Robot vacuum bases tend to need ample r… [+5829 chars]"
+    },
+
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "Mac owners in the US can now extend their warranty beyond three years",
+      "description": "The ongoing coverage will continue to renew annually until a customer cancels it.",
+      "url": "https://www.engadget.com/applecare-plus-mac-us-extension-194907534.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/5e9dd7f0-7fab-11eb-bffe-a4bd07f3c114",
+      "publishedAt": "2021-04-21T19:49:07Z",
+      "content": "In the past, Apple computers have come with a limited one-year warranty you can extend by purchasing the companys AppleCare+ service. Doing so not only protects your computer for a longer period of t… [+1927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Victoria Song",
+      "title": "A Health Tech Company Says the Apple Watch Is Infringing on Its ECG Patents",
+      "description": "When Apple unveiled FDA-cleared ECG capabilities with the Apple Watch Series 4, it spurred a slew of other wearables companies to do the same. Now, health tech company AliveCor has filed a complaint with the U.S. International Trade Commission claiming the Cu…",
+      "url": "https://gizmodo.com/a-health-tech-company-says-the-apple-watch-is-infringin-1846730831",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/mm5h7wmuxihyz8qspzoo.png",
+      "publishedAt": "2021-04-21T18:15:00Z",
+      "content": "When Apple unveiled FDA-cleared ECG capabilities with the Apple Watch Series 4, it spurred a slew of other wearables companies to do the same. Now, health tech company AliveCor has filed a complaint … [+4970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joanna Nelius",
+      "title": "Look, Apple Isn't Going to Put macOS on the iPad",
+      "description": "After Apple announced this week that both its new iMac and iPad Pro lineup were getting its stellar M1 processor, a lot of people speculated if that meant the company was getting ready to put macOS on the iPad. And look, maybe that would be a great thing—a to…",
+      "url": "https://gizmodo.com/look-apple-isnt-going-to-put-macos-on-the-ipad-1846744555",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/m7pmotjrr8ujsztjt62i.jpg",
+      "publishedAt": "2021-04-23T00:53:00Z",
+      "content": "After Apple announced this week that both its new iMac and iPad Pro lineup were getting its stellar M1 processor, a lot of people speculated if that meant the company was getting ready to put macOS o… [+2710 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Kim Lyons",
+      "title": "Apple AirTags and purple iPhone 12 are now available for preorder",
+      "description": "The long-awaited and rumored AirTags were revealed at the Spring Loaded event. You can preorder now and they should be delivered between May 3rd and May 5th. And you can now preorder a purple iPhone 12 as well.",
+      "url": "https://www.theverge.com/2021/4/23/22399157/apple-airtags-purple-iphone-12-preorder-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OSgFFOqae4lBP8DEoaxaYAYStFw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22461476/vpavic_4547_20210421_0131.jpg",
+      "publishedAt": "2021-04-23T13:27:50Z",
+      "content": "Both were announced at the Spring Loaded event this week\r\nApples new AirTag tracking devices\r\nPhoto by Vjeran Pavic / The Verge\r\nApples new Tile-like AirTags, long-rumored and finally announced at th… [+1057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Apple AirTags Have Created a Whole New World of Accessories",
+      "description": "Apple’s little Bluetooth location-tracking AirTags are finally here and ready to be attached to your key rings, luggage handles, or whatever else you tend to lose and would very much like to find again. Sure, you can absolutely buy an AirTag and throw it in a…",
+      "url": "https://gizmodo.com/apple-airtags-have-created-a-whole-new-world-of-accesso-1846734885",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vnry3mop4tyems369egx.png",
+      "publishedAt": "2021-04-21T22:15:00Z",
+      "content": "Apples little Bluetooth location-tracking AirTags are finally here and ready to be attached to your key rings, luggage handles, or whatever else you tend to lose and would very much like to find agai… [+547 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode",
+      "title": "AirTags are the perfect future of AR",
+      "description": "Apple’s new location-aware widgets point to the company’s possible larger ambitions for augmented reality.",
+      "url": "https://www.wired.com/story/apple-airtags-future-of-augmented-reality/",
+      "urlToImage": "https://media.wired.com/photos/607f2cf17b23ac048f58e2d7/191:100/w_1280,c_limit/Gear-Apple_airtag-pairing-screen_042021.jpg",
+      "publishedAt": "2021-04-21T11:00:00Z",
+      "content": "Most iPhone owners have already used AR on their Apple handset, even if they havent realized it. One of the most useful AR tools built into the iPhone is its simplest, the virtual tape measure in the… [+3311 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/chris-velazco",
+      "title": "Apple's new AirTags are as simple as they should be",
+      "description": "If there’s one thing you should know about me, it’s that I. Lose. Everything. That character flaw, in tandem with a complete inability to see things smack in front of my face sometimes, means I’m perhaps the perfect person to try out Apple’s new AirTags. Good…",
+      "url": "https://www.engadget.com/apple-airtags-trackers-first-look-hands-on-130036848.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/563d46f0-a336-11eb-badb-362b28ea55b4",
+      "publishedAt": "2021-04-22T13:00:36Z",
+      "content": "If theres one thing you should know about me, its that I. Lose. Everything. That character flaw, in tandem with a complete inability to see things smack in front of my face sometimes, means Im perhap… [+4050 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "Epic Games Store now offers Itch.io's indie marketplace",
+      "description": "The Epic Games Store has added multiple apps, including the indie game shop Itch.io and Brave's browser.",
+      "url": "https://www.engadget.com/epic-games-store-apps-itch-io-140049973.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/0e5810a0-a36c-11eb-bebd-4ae39a6da7d0",
+      "publishedAt": "2021-04-22T14:00:49Z",
+      "content": "Epic Games is determined to show that it's more open than Apple or Valve, and that now includes some of the less gaming-oriented apps you'll find in its online portal. The company has added a slew of… [+1123 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Matthew Panzarino",
+      "title": "First findings with Apple’s new AirTag location devices",
+      "description": "I’ve been playing around with Apple’s new AirTag location devices for a few hours now and they seem to work pretty much as advertised. The setup flow is simple and clean, taking clear inspiration from the one Apple developed for AirPods. The precision finding…",
+      "url": "http://techcrunch.com/2021/04/22/first-findings-with-apples-new-airtag-location-devices/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/IMG_0834.jpg?w=533",
+      "publishedAt": "2021-04-22T13:09:51Z",
+      "content": "Ive been playing around with Apples new AirTag location devices for a few hours now and they seem to work pretty much as advertised. The setup flow is simple and clean, taking clear inspiration from … [+5129 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Logitech launches Combo Touch keyboard cases for the new iPad Pros",
+      "description": "Logitech has, quite predictably, released new versions of its Combo Touch keyboard case for Apple's newly announced iPad Pros.",
+      "url": "https://www.engadget.com/logitech-combo-touch-keyboard-cases-new-ipad-pros-060545305.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/125bc9d0-a254-11eb-b4ff-6f41eeca35ed",
+      "publishedAt": "2021-04-21T06:05:45Z",
+      "content": "Logitech has, quite predictably, released new versions of its Combo Touch keyboard case for Apple's newly announced iPad Pros. The company introduced the accessory for the 2019 iPad, 2019 iPad Air an… [+1536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Sami Fathi",
+      "title": "Apple News Gaining Apple Music Editorial Content",
+      "description": "Apple is bringing Apple Music editorial content into Apple News as a way to offer readers even more content about the artists, songs, and more that they love.\n\n\n\n\n\nApple has started a new Apple Music channel within Apple News, as first spotted by MacStories, …",
+      "url": "https://www.macrumors.com/2021/04/21/apple-music-news-editorial-content/",
+      "urlToImage": "https://images.macrumors.com/t/8ziX_rHk_yG8RYLv9XjUzoLEgmY=/1600x/https://images.macrumors.com/article-new/2020/08/apple-music-worldwide-ad-featured.jpg",
+      "publishedAt": "2021-04-21T15:06:07Z",
+      "content": "Apple is bringing Apple Music editorial content into Apple News as a way to offer readers even more content about the artists, songs, and more that they love.\r\nApple has started a new Apple Music cha… [+701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Apple's M1 Chip Is a Cruel Reminder of What Android Users Are Missing Out On",
+      "description": "As an Android user, I sometimes feel defeated after sitting through an Apple event, especially when there are new, covetable tablets like the iPad Pro. It reminds me that there are too few viable alternatives in Android land.Read more...",
+      "url": "https://gizmodo.com/apples-m1-chip-is-a-cruel-reminder-of-what-android-user-1846726731",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/mvm2jrpbzopsfyxkdikx.jpg",
+      "publishedAt": "2021-04-21T12:00:00Z",
+      "content": "As an Android user, I sometimes feel defeated after sitting through an Apple event, especially when there are new, covetable tablets like the iPad Pro. It reminds me that there are too few viable alt… [+5604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joanna Nelius",
+      "title": "Apple's Tile Rival, AirTag, Has Arrived at Long Last",
+      "description": "The long rumored Apple AirTags are finally here. Apple's answer to Tile uses UWB to work with your phone and other Apple products to keep track of non-Apple stuff.",
+      "url": "https://gizmodo.com/apples-tile-rival-airtag-has-arrived-at-long-last-1845051029",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/u4628oombt1kkzuzqeoe.png",
+      "publishedAt": "2021-04-20T17:17:00Z",
+      "content": "Apples long-rumored Bluetooth trackers, AirTags, are now officially here. Finally. \r\nAirTags are little round tiles that look similar to backgammon pieces, but larger. You attach them to your keys, w… [+2679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "When You Can Pre-Order Everything Apple Announced Today",
+      "description": "It’s Apple day! And just when I was starting to wonder if the world still had the capacity to get excited about hour-long product announcements. At its “Spring Loaded” event, Apple roared out of the gate, announcing some pretty wicked upgrades to the Mac and …",
+      "url": "https://lifehacker.com/when-you-can-pre-order-everything-apple-announced-today-1846722213",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vestx7gdwfrz5330hguw.png",
+      "publishedAt": "2021-04-20T21:30:00Z",
+      "content": "Its Apple day! And just when I was starting to wonder if the world still had the capacity to get excited about hour-long product announcements. At its Spring Loaded event, Apple roared out of the gat… [+6771 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gear Team",
+      "title": "Everything Apple Announced Today: New iMacs, iPads, AirTags",
+      "description": "Say hello to new iMacs, new iPads Pro, an updated Apple TV, and some little wireless trackers that keep tabs on your tchotchkes.",
+      "url": "https://www.wired.com/story/everything-apple-announced-april-2021/",
+      "urlToImage": "https://media.wired.com/photos/607f130d8b8cd2f789408f36/191:100/w_1280,c_limit/Gear-apple_new-imac-spring21_hero_04202021.jpg",
+      "publishedAt": "2021-04-20T18:51:25Z",
+      "content": "On Tuesday morning,Apple held its first hardware announcement event of the year. We were expecting to see some new iPads, and Apple did show those off. But the company also unveiled a whole lot more:… [+1911 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Darrell Etherington",
+      "title": "Apple’s new iMac finally gets an actually good webcam",
+      "description": "Apple introduced new iMacs at its event on Tuesday, outfitted with its M1 processor and redesigned inside and out from the ground up. The hardware is impressive, but one of the biggest improvements for everyone’s Zoom-heavy life might be the webcam. Apple sai…",
+      "url": "http://techcrunch.com/2021/04/20/apples-new-imac-finally-gets-an-actually-good-webcam/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/imac-webcam.jpg?w=717",
+      "publishedAt": "2021-04-20T17:36:19Z",
+      "content": "Apple introduced new iMacs at its event on Tuesday, outfitted with its M1 processor and redesigned inside and out from the ground up. The hardware is impressive, but one of the biggest improvements f… [+1234 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "The new Apple TV 4K comes with a new Siri Remote",
+      "description": "Apple announced a new Apple TV 4K today, which will come with a new Siri Remote. In addition to the existing Siri support, this new aluminum remote features a redesigned clickpad that allows for circular gestures in the outer ring, which viewers can use to qu…",
+      "url": "http://techcrunch.com/2021/04/20/the-new-apple-tv-4k-comes-with-a-new-siri-remote/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/apple-tv-4k-remote.jpg?w=711",
+      "publishedAt": "2021-04-20T17:45:43Z",
+      "content": "Apple announced a new Apple TV 4K today, which will come with a new Siri Remote.\r\nIn addition to the existing Siri support, this new aluminum remote features a redesigned clickpad that allows for cir… [+1533 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Keith Wagstaff",
+      "title": "Everything Apple revealed at its spring event",
+      "description": "Apple CEO Tim Cook revealed that he loooves Ted Lasso at the company's big spring event on Tuesday. Oh, he also revealed some new products. \n\n\n\n\n\r\n\n\r\nApple reveals AirTags\nApple's long-awaited Tile competitor has finally been revealed. A single Bluetooth trac…",
+      "url": "https://mashable.com/article/everything-apple-announced-at-spring-event/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F20%252F21%252F0a27afa795844ce5a0d9811d4aee8bfb.69342.png%252F1200x630.png?signature=Sm0lMM5Kvv3D4BbqXfufzHlyOko=",
+      "publishedAt": "2021-04-20T17:41:52Z",
+      "content": "Apple CEO Tim Cook revealed that he loooves Ted Lasso at the company's big spring event on Tuesday. Oh, he also revealed some new products. \r\nApple's long-awaited Tile competitor has finally been rev… [+450 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/daniel-cooper",
+      "title": "iOS 14.5 will roll out next week",
+      "description": "You can now set your iPhone to unlock if it detects your watch in the area.",
+      "url": "https://www.engadget.com/ios-14-5-rolls-out-181112539.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/3dabc140-a203-11eb-8bbf-d413889aa359",
+      "publishedAt": "2021-04-20T18:11:12Z",
+      "content": "Seven months after iOS 14 was released, Apple has today revealed that iOS 14.5 will begin rolling out the week of April 26th. At its iPad event, the company declined to offer a specific date, but its… [+2691 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Rachel Kraus",
+      "title": "The iPhone 12 now comes in purple",
+      "description": "Apple really leaned into 420 at its spring event with a drop of some sweet purple. A purple iPhone, that is.\nIn a video featuring puffs of smoke set to the Willy Wonka movie's \"Candy Man,\" Apple unveiled the new color for iPhone 12 models, including the ultra…",
+      "url": "https://mashable.com/article/iphone-12-new-color-purple-lavender/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F20%252F98%252Fa6574861f919475493e1a8671bae379e.69342.png%252F1200x630.png?signature=ws8OCYpVMr63pnfM_ZwMFTK7hXA=",
+      "publishedAt": "2021-04-20T17:26:43Z",
+      "content": "Apple really leaned into 420 at its spring event with a drop of some sweet purple. A purple iPhone, that is.\r\nIn a video featuring puffs of smoke set to the Willy Wonka movie's \"Candy Man,\" Apple unv… [+442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "How to Fix Your Phone After Downloading 'WhatsApp Pink'",
+      "description": "Security researcher Rajshekhar Rajaharia took to Twitter the other day to warn about a new scam making the rounds—the goofily named “WhatsApp Pink.” This Android app promises to be a fun new variant of the popular chat app that comes with an all-pink UI. And …",
+      "url": "https://lifehacker.com/how-to-fix-your-phone-after-downloading-whatsapp-pink-1846728389",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/pbto42rgdeednjtb4vym.png",
+      "publishedAt": "2021-04-21T14:00:00Z",
+      "content": "Security researcher Rajshekhar Rajaharia took to Twitter the other day to warn about a new scam making the roundsthe goofily named WhatsApp Pink. This Android app promises to be a fun new variant of … [+2203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Sam Blum",
+      "title": "Test Out Your New Decor With a Virtual Redecorating App",
+      "description": "You dream of a couch, but have no idea how your vague inkling of a couch will actually work in your living space. Or you go to a furniture store, measurements in hand, looking to acquire a table, but walk away unsure whether said table will look all wrong, ev…",
+      "url": "https://lifehacker.com/test-out-your-new-decor-with-a-virtual-redecorating-app-1846731593",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eqea3qckvq3qlroz1w42.png",
+      "publishedAt": "2021-04-21T19:00:00Z",
+      "content": "You dream of a couch, but have no idea how your vague inkling of a couch will actually work in your living space. Or you go to a furniture store, measurements in hand, looking to acquire a table, but… [+4060 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Sheila Dang",
+      "title": "Snap beats user growth estimates with revamped Android app - Reuters",
+      "description": "Snap Inc (SNAP.N) on Thursday beat Wall Street estimates for user growth and revenue as the improved Android version of its popular messaging app Snapchat attracted more users, but growth slowed within North America.",
+      "url": "https://www.reuters.com/technology/snap-beats-user-growth-estimates-with-revamped-android-app-2021-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/OiJbcbXb-6b9018rvxLPptcn4Ps=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OBK7UGZW5ISFJHNIVYPMM62BI.jpg",
+      "publishedAt": "2021-04-22T20:25:00Z",
+      "content": "Snap Inc (SNAP.N) on Thursday beat Wall Street estimates for user growth and revenue as the improved Android version of its popular messaging app Snapchat attracted more users, but growth slowed with… [+1887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Derrek Lee",
+      "title": "Snapchat is more popular on Android than on iPhones for the first time ever",
+      "description": "Snapchat experienced a resurgence on Android.\n\nWhat you need to know\n\n\nSnapchat presented its first-quarter results with some interesting revelations.\nThe company reported more active users on Android than iOS.\nSnapchat was rebuilt in 2019 for Android after u…",
+      "url": "https://www.androidcentral.com/snapchat-reports-more-daily-active-users-android-iphone-ios",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/04/snapchat-sign-in-s20-plus.jpg",
+      "publishedAt": "2021-04-23T00:27:52Z",
+      "content": "How the tides have turned. Android users once heavily criticized Snapchat for the poor performance of the app. The experience didn't quite have the same quality as the iOS app, which caused owners of… [+1613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jerry Hildenbrand",
+      "title": "Android 12 features we love: Notifications keep getting better",
+      "description": "Notifications are a big part of the Android experience, and Android 12 brings another big change.\n\nI'll bet the \"thing\" on your phone you look at the most is the notification shade. No matter if you have one of the best budget Android phones or something more…",
+      "url": "https://www.androidcentral.com/android-12-features-we-love-notifications-keep-getting-better",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/android-12-ac-homepage-1.jpg",
+      "publishedAt": "2021-04-22T11:00:03Z",
+      "content": "Source: Jerry Hildenbrand / Android Central\r\nI'll bet the \"thing\" on your phone you look at the most is the notification shade. No matter if you have one of the best budget Android phones or somethin… [+5016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Babu Mohan",
+      "title": "Apple's AirTag can work with Android phones — but not how you think",
+      "description": "You can help return a lost AirTag with your Android phone.\n\n\n\nWhat you need to know\n\n\nApple's new AirTag can interact with Android devices when its \"Lost Mode\" feature is activated.\nWhen the \"Lost Mode\" is activated, the AirTag will show a message with the ow…",
+      "url": "https://www.androidcentral.com/apples-airtag-can-work-android-phones-not-how-you-think",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/apple-airttag-finding-screen.jpg",
+      "publishedAt": "2021-04-21T13:17:44Z",
+      "content": "Apple finally introduced the long-rumored AirTags at its Spring Loaded event yesterday. The item tracker uses ultra-wideband (UWB) technology for \"precision tracking,\" similar to Samsung's Galaxy Sma… [+1803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Brendan Hesse",
+      "title": "How to Use Every New Google Meet Feature Announced This Week",
+      "description": "Google recently unveiled several new Google Meet features, including a reorganized web interface with new pin controls, a new data- and battery-friendly Saver mode for mobile users, and a slew of upcoming video features.Read more...",
+      "url": "https://lifehacker.com/how-to-use-every-new-google-meet-feature-announced-this-1846743132",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/xh1aqu1o96uzficlnlz1.jpg",
+      "publishedAt": "2021-04-23T14:00:00Z",
+      "content": "Google recently unveiled several new Google Meet features, including a reorganized web interface with new pin controls, a new data- and battery-friendly Saver mode for mobile users, and a slew of upc… [+3680 chars]"
+    },
+
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode",
+      "title": "AirTags Are the perfect future of AR",
+      "description": "Apple’s new location-aware widgets point to the company’s possible larger ambitions for augmented reality.",
+      "url": "https://www.wired.com/story/apple-airtags-future-of-augmented-reality/",
+      "urlToImage": "https://media.wired.com/photos/607f2cf17b23ac048f58e2d7/191:100/w_1280,c_limit/Gear-Apple_airtag-pairing-screen_042021.jpg",
+      "publishedAt": "2021-04-21T11:00:00Z",
+      "content": "Most iPhone owners have already used AR on their Apple handset, even if they havent realized it. One of the most useful AR tools built into the iPhone is its simplest, the virtual tape measure in the… [+3311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "A.A. Newton",
+      "title": "How to Actually Save Money Comparing Toilet Paper Prices",
+      "description": "Shopping for toilet paper should not be as complicated or expensive as it is. Brands love to splash their packaging with claims that one of their “mega rolls” is equal to 12 or 18 “regular rolls,” but are less forthright about how much actual paper they are g…",
+      "url": "https://lifehacker.com/how-to-actually-save-money-comparing-toilet-paper-price-1846741797",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bhkdlsgfy5tu6bn2kj54.jpg",
+      "publishedAt": "2021-04-22T20:00:00Z",
+      "content": "Shopping for toilet paper should not be as complicated or expensive as it is. Brands love to splash their packaging with claims that one of their mega rolls is equal to 12 or 18 regular rolls, but ar… [+3026 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joseph Green",
+      "title": "Understand the fundamentals of electrical engineering with this online bundle",
+      "description": "TL;DR: The Fundamentals of Power and Electrical Engineering Bundle is on sale for £28.59 as of April 22, saving you 97% on list price.\n\nThe world needs electrical engineers to create, design, and manage electrical systems. If that sounds like your cup of tea,…",
+      "url": "https://mashable.com/uk/shopping/april-22-fundamentals-of-power-and-electrical-engineering-bundle/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F22%252F0a%252F5db2abbf13864dc385e13b3e98f61b74.b8190.jpg%252F1200x630.jpg?signature=Y6aGCKVJPg6se1APCGvhSEcXzLY=",
+      "publishedAt": "2021-04-22T04:05:00Z",
+      "content": "TL;DR: The Fundamentals of Power and Electrical Engineering Bundle is on sale for £28.59 as of April 22, saving you 97% on list price.\r\nThe world needs electrical engineers to create, design, and man… [+1269 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joseph Green",
+      "title": "Wix vs. Squarespace vs. WordPress: Which web builder is better?",
+      "description": "Having a place to call home online is pretty nice. Whether you want to run a personal blog that updates friends and family on what you've been up to, or you're eager to advertise your business across the world or showcase your creative talents, a website is a…",
+      "url": "https://mashable.com/uk/shopping/wix-vs-squarespace-vs-wordpress-uk/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F21%252Fd1%252F7ac9fcfd52024570a0beb32f39dac020.709c9.jpg%252F1200x630.jpg?signature=x4LFWMvw6cEuHtEYpFYv9tGGmVg=",
+      "publishedAt": "2021-04-21T03:55:00Z",
+      "content": "Having a place to call home online is pretty nice. Whether you want to run a personal blog that updates friends and family on what you've been up to, or you're eager to advertise your business across… [+14545 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jae Thomas",
+      "title": "Earth Day deals: Reusable water bottles and more",
+      "description": "Consumer choices alone won't save the planet, but if there's a way to make something in your life eco-friendlier, why not do it? To make it easier for you to swap out normal products with more earth-friendly ones, we've rounded up these 29 items on sale just …",
+      "url": "https://mashable.com/shopping/april-22-eco-friendly-solar-powered-reusable-products-for-earth-day/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F22%252F9b%252F094f3a929bfe4ef8a9fe917869382f46.7b777.jpg%252F1200x630.jpg?signature=FiolfMlg4bRrn_irtVHlw6sJTaE=",
+      "publishedAt": "2021-04-22T09:00:00Z",
+      "content": "Consumer choices alone won't save the planet, but if there's a way to make something in your life eco-friendlier, why not do it? To make it easier for you to swap out normal products with more earth-… [+5706 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft releases Office 2021 for Mac preview",
+      "description": "Microsoft is allowing Mac users to test a new Office 2021 for Mac release. The preview version is available now with a handful of new features, and a final release is due later this year.",
+      "url": "https://www.theverge.com/2021/4/23/22399042/microsoft-office-2021-for-mac-preview-download",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/irGgtqwtDrZj2r7e8HRiKyxqI_4=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22313037/officeicons.jpg",
+      "publishedAt": "2021-04-23T11:22:53Z",
+      "content": "The final version of Office 2021 for Mac will be available later this year\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nMicrosoft is releasing … [+1567 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "Free-to-play Xbox games no longer require Xbox Live Gold to play online",
+      "description": "Starting today, all Xbox One and Xbox Series X/S owners can play free online multiplayer games without an Xbox Live Gold membership.",
+      "url": "https://www.engadget.com/microsoft-xbox-free-to-play-multiplayer-174601610.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/ea696760-a2c7-11eb-9eeb-a60191e6ae9a",
+      "publishedAt": "2021-04-21T17:46:01Z",
+      "content": "Starting today, all Xbox One and Xbox Series X/S owners can play free online multiplayer games without an Xbox Live Gold membership. In all, that means more than 50 free-to-play titles\r\n no longer re… [+1306 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Daily Crunch: Google Meet will get a new look and new features",
+      "description": "Google announces upgrades to Google Meet, Amazon is bringing its palm scanner to Whole Foods and Microsoft looks at the effect of video calls on our brains. This is your Daily Crunch for April 21, 2021. The big story: Google Meet will get a new look and new f…",
+      "url": "http://techcrunch.com/2021/04/21/daily-crunch-google-meet-will-get-a-new-look-and-new-features/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1254318913.jpg?w=533",
+      "publishedAt": "2021-04-21T22:31:16Z",
+      "content": "Google announces upgrades to Google Meet, Amazon is bringing its palm scanner to Whole Foods and Microsoft looks at the effect of video calls on our brains. This is your Daily Crunch for April 21, 20… [+3069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Microsoft Teams Gains System Audio Sharing Option, macOS Notification Center Integration Coming Soon",
+      "description": "Microsoft Teams for macOS has been updated so that other people on a video call are able to hear a Mac's system audio when another user is screen sharing.\n\n\n\n\n\nTeams for Windows has always offered users the option of system audio sharing. Today's update bring…",
+      "url": "https://www.macrumors.com/2021/04/22/microsoft-teams-mac-system-audio-sharing/",
+      "urlToImage": "https://images.macrumors.com/t/Y-DixXICpfDtf6YWEv44LgH0wMM=/1600x/https://images.macrumors.com/article-new/2021/04/microsoft-teams.jpeg",
+      "publishedAt": "2021-04-22T08:21:13Z",
+      "content": "Microsoft Teams for macOS has been updated so that other people on a video call are able to hear a Mac's system audio when another user is screen sharing.\r\nTeams for Windows has always offered users … [+814 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joseph Green",
+      "title": "Save 91% on this powerful encryption software subscription",
+      "description": "TL;DR: A lifetime subscription to GhostVolt Encryption Software is on sale for £21.44 as of April 23, saving you 91% on list price.\n\nRather than dwell on what-ifs, help ensure your private information stays private with a lifetime subscription to GhostVolt En…",
+      "url": "https://mashable.com/uk/shopping/april-23-ghostvolt-encryption-software-lifetime-subscription/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F23%252F1f%252Fc87e86ffa71d43718f24e1b3cfb56bd1.70755.jpg%252F1200x630.jpg?signature=QZ1oZNXqV4eKLZGklrMt0nlzCK8=",
+      "publishedAt": "2021-04-23T04:05:00Z",
+      "content": "TL;DR: A lifetime subscription to GhostVolt Encryption Software is on sale for £21.44 as of April 23, saving you 91% on list price.\r\nRather than dwell on what-ifs, help ensure your private informatio… [+674 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jonathan Shieber",
+      "title": "OneSoil raises $5 million for its farm monitoring tech",
+      "description": "OneSoil, a company selling technology to help farmers monitor fields and increase yields, has raised $5 million from international investors Almaz Capital and PortfoLion. The company’s tech integrates satellite imagery with mobile and desktop applications for…",
+      "url": "http://techcrunch.com/2021/04/21/onesoil-raises-5-million-for-its-farm-monitoring-tech/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-185274428.jpg?w=600",
+      "publishedAt": "2021-04-21T13:34:22Z",
+      "content": "OneSoil, a company selling technology to help farmers monitor fields and increase yields, has raised $5 million from international investors Almaz Capital and PortfoLion.\r\nThe company’s tech integrat… [+1937 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Amazon is bringing its Amazon One palm scanner to select Whole Foods as a payment option",
+      "description": "Amazon is bringing its new biometric device, the Amazon One scanner, to Whole Foods store. The retail giant this past fall first introduced the Amazon One scanner, which allows shoppers to enter a store by having their palm scanned. The customer’s palm signat…",
+      "url": "http://techcrunch.com/2021/04/21/amazon-is-bringing-its-amazon-one-palm-scanner-to-select-whole-foods-as-a-payment-option/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/amazon-one-grocery.jpg?w=713",
+      "publishedAt": "2021-04-21T13:56:44Z",
+      "content": "Amazon is bringing its new biometric device, the Amazon One scanner, to Whole Foods store. The retail giant this past fall first introduced the Amazon One scanner, which allows shoppers to enter a st… [+4108 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Disney to bring 'Spider-Man' and other Sony movies to streaming, TV - Reuters",
+      "description": "Walt Disney Co said on Wednesday it had reached a deal with Sony Pictures to bring future \"Spider-Man\" movies and other films to Disney's streaming services and TV networks after they play on Netflix.",
+      "url": "https://www.reuters.com/article/us-walt-disney-sony-movies-idUSKBN2C82WF",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210421&t=2&i=1559428448&r=LYNXMPEH3K1K9&w=800",
+      "publishedAt": "2021-04-21T20:51:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: A screen shows the logo and a ticker symbol for The Walt Disney Company on the floor of the New York Stock Exchange (NYSE) in New York, U.S., December 14, 2017. REUTERS/… [+305 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mat-smith",
+      "title": "The Morning After: NASA's Perseverance rover is making oxygen on Mars",
+      "description": "Today’s headlines: PlayStation Plus could soon include a video service, NASA's Perseverance rover turns a tiny bit of Mars air into breathable oxygen and Samsung’s gadget Upcycling beta comes to the US.",
+      "url": "https://www.engadget.com/the-morning-after-nas-as-perseverance-rover-is-making-oxygen-on-mars-113356990.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/96f3c2f0-a354-11eb-bffd-f5cb908e2080",
+      "publishedAt": "2021-04-22T11:33:56Z",
+      "content": "After a relatively quiet few months, all the game movie news came at the same time. No, its not another Uncharted delay (that we know of), but a new, reimagined Mortal Kombat movie lands tomorrow. Wh… [+4310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jennifer Locke",
+      "title": "Breaking down the differences between PlayStation Plus and PlayStation Now",
+      "description": "Best answer: PlayStation Plus is a premium subscription service that grants access to online multiplayer, 100GB of cloud storage, free games, and offers exclusive discounts. PlayStation Now is similar to Netflix in that it delivers access to over 800 games th…",
+      "url": "https://www.androidcentral.com/playstation-plus-vs-playstation-now-what-are-differences",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/ps-plus-on-ps5.jpg",
+      "publishedAt": "2021-04-22T18:00:02Z",
+      "content": "What Does PlayStation Plus offer?\r\nPlayStation Plus is essentially the equivalent of Xbox Live Gold. It offers access to online multiplayer in all games that have it, though free-to-play games don't … [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jennifer Locke",
+      "title": "Sony accidentally reveals mysterious PlayStation Plus Video Pass",
+      "description": "Looks like a new benefit for PS Plus members.\n\nWhat you need to know\n\n\nA logo for something called \"PlayStation Plus Video Pass\" popped up on Sony's official Polish website.\nThe description read that it's a trial service available from April 21, 2021 through …",
+      "url": "https://www.androidcentral.com/sony-accidentally-reveals-mysterious-playstation-plus-video-pass",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/playstation-plus-video-pass.jpg",
+      "publishedAt": "2021-04-21T13:38:23Z",
+      "content": "VGC discovered a logo for something called the PlayStation Plus Video Pass was published on Sony's official Polish website. Though it has since been removed, the premature reveal indicates that some … [+1300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Dave Johnson",
+      "title": "Where to buy a PS5: Everything you need to know to get Sony's new console - CNET",
+      "description": "Finding a PS5 is tricky business, as new consoles are immediately snapped up by keen customers.",
+      "url": "https://www.cnet.com/news/where-to-buy-a-ps5-everything-you-need-to-know-to-get-sonys-new-console/",
+      "urlToImage": "https://www.cnet.com/a/img/DxwnHdIOYJdga4HW46NeXwKcRUI=/1200x630/2021/03/08/b3cb8ee9-8eca-4097-a50f-7224e51b2afe/ps5-playstation-5-sony-hoyle-promo-11.jpg",
+      "publishedAt": "2021-04-22T22:21:49Z",
+      "content": "Let's just get the bad news out of the way: No major retailer options have been able to keep Sony's PS5 console in stock since its launch. Even Sony itself can't keep up with demand for the highly co… [+3436 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Purslow",
+      "title": "PlayStation Boss Says PS5 Generation Will Have More Exclusives",
+      "description": "PS5 will have more exclusive games than any prior generation of PlayStation console, according to Sony boss Jim Ryan.",
+      "url": "https://www.ign.com/articles/playstation-boss-says-ps5-generation-will-have-more-exclusives",
+      "urlToImage": "https://assets1.ignimgs.com/2021/04/22/playstation-studios-1619090080230.jpg?width=1280",
+      "publishedAt": "2021-04-22T11:17:11Z",
+      "content": "Sony Interactive Entertainment CEO, Jim Ryan, has said that the PS5 will have more exclusive games than any prior generation of PlayStation console.As reported by VGC, Ryan spoke to Japanese financia… [+1286 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sam Byford",
+      "title": "Fujifilm is releasing a Nintendo-themed Instax printer",
+      "description": "Fujifilm is releasing a new Nintendo Switch-inspired version of its Instax Mini Link photo printer, as well as a new app that lets you edit photos with Nintendo-themed frames before printing.",
+      "url": "https://www.theverge.com/2021/4/22/22397156/fujifilm-nintendo-instax-mini-link-app-collaboration",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-S4Njr-iJDG5dACiYLt6H0U7P0E=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22461722/fujinintendo.jpg",
+      "publishedAt": "2021-04-22T08:16:52Z",
+      "content": "Fujifilm and Nintendo have announced a new collaboration. The camera company is releasing a new Switch-themed version of its Instax Mini Link photo printer, as well as a new app that’s designed to le… [+924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Michael Zhang",
+      "title": "Fujifilm and Nintendo Made an Instant Photo Printer for Switch Gamers",
+      "description": "Fujifilm and Nintendo have teamed up to create a new smartphone printer that lets Nintendo Switch gamers print out their in-game photos as Instax instant photos. It’s called the Instax Mini Link for Nintendo Switch Smartphone Printer. The new device, aka the …",
+      "url": "https://petapixel.com/2021/04/21/fujifilm-and-nintendo-made-an-instant-photo-printer-for-switch-gamers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PetaPixel+%28PetaPixel%29",
+      "urlToImage": "https://petapixel.com/assets/uploads/2021/04/fujifilmnintendoinstaxprinter.jpg",
+      "publishedAt": "2021-04-22T05:49:13Z",
+      "content": "Fujifilm and Nintendo have teamed up to create a new smartphone printer that lets Nintendo Switch gamers print out their in-game photos as Instax instant photos. It’s called the Instax Mini Link for … [+1641 chars]"
+    },
+
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Tesla cars can drive with no one in driver's seat - Consumer Reports - Reuters",
+      "description": "Influential U.S. magazine Consumer Reports said on Thursday its engineers were able to operate a Tesla Inc (TSLA.O) vehicle without anyone in the driver's seat, but the system failed to send out a warning or indicate that the driver's seat was empty.",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-cars-can-drive-with-no-one-drivers-seat-consumer-reports-2021-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/ui0z7-O6CSJojh1kW6ceu_aGtT0=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNBIKZANUVMH3OQGNLHUWQZS7A.jpg",
+      "publishedAt": "2021-04-22T16:07:00Z",
+      "content": "The logo of car manufacturer Tesla is seen at a branch office in Bern, Switzerland October 28, 2020. REUTERS/Arnd WiegmannInfluential U.S. magazine Consumer Reports said on Thursday its engineers wer… [+1564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Maya Posch",
+      "title": "Space Propulsion: Separating Fact From Science Fiction",
+      "description": "An unfortunate property of science-fiction is that it is, tragically, fiction. Instead of soaring between the stars and countless galaxies out there, we find ourselves hitherto confined to this planet …read more",
+      "url": "https://hackaday.com/2021/04/19/space-propulsion-separating-fact-from-science-fiction/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2021/04/SpacePropulsion.jpg",
+      "publishedAt": "2021-04-19T14:01:02Z",
+      "content": "An unfortunate property of science-fiction is that it is, tragically, fiction. Instead of soaring between the stars and countless galaxies out there, we find ourselves hitherto confined to this plane… [+12036 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Kellen Beck",
+      "title": "Watch NASA's helicopter make its historic first flight on Mars",
+      "description": "NASA's Mars helicopter, Ingenuity, made history with its first Martian flight Monday.\nIts travel buddy, Perseverance the rover, caught the flight on video.\nThe video shows Ingenuity hovering in the middle of its first test flight 10 feet above the Martian sur…",
+      "url": "https://mashable.com/video/mars-ingenuity-helicopter-flight/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F19%252F45%252F78fb2427b484479fae95d3cdc837d9c0.5ad94.png%252F1200x630.png?signature=iYH3EuS52eIjpxft22YUjk84Yko=",
+      "publishedAt": "2021-04-19T17:01:49Z",
+      "content": "NASA's Mars helicopter, Ingenuity, made history with its first Martian flight Monday.\r\nIts travel buddy, Perseverance the rover, caught the flight on video.\r\nThe video shows Ingenuity hovering in the… [+437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Elizabeth Yuko",
+      "title": "How to Adjust Your Car's Headlights",
+      "description": "While we may not think about it like an oil change, making sure your vehicle’s headlights are properly adjusted is an important part of routine maintenance. Having a headlight (or two) pointing off in the wrong directions not only makes it harder for you to s…",
+      "url": "https://lifehacker.com/how-to-adjust-your-cars-headlights-1846705233",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/g4qmtcktk8hmg0rahod8.jpg",
+      "publishedAt": "2021-04-18T14:00:00Z",
+      "content": "While we may not think about it like an oil change, making sure your vehicles headlights are properly adjusted is an important part of routine maintenance. Having a headlight (or two) pointing off in… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "David Shepardson",
+      "title": "Biden kicks off electric vehicle push with South Caroline plant 'tour' - Reuters",
+      "description": "President Joe Biden will virtually tour a South Carolina electric bus and battery manufacturing plant on Tuesday as the White House touts his proposal to boost the production of zero-emission buses and cars.",
+      "url": "https://www.reuters.com/article/us-usa-biden-electronic-vehicles-idUSKBN2C72BH",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210420&t=2&i=1559236354&r=LYNXMPEH3J15F&w=800",
+      "publishedAt": "2021-04-20T16:28:00Z",
+      "content": "FILE PHOTO: U.S. President Joe Biden delivers remarks in the East Room at the White House in Washington, U.S., April 15, 2021. REUTERS/Tom Brenner\r\nWASHINGTON (Reuters) - President Joe Biden will vir… [+1928 chars]"
+    },
+
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/saqib-shah",
+      "title": "Amazon is opening a hair salon with an AR color bar",
+      "description": "Amazon is opening its first salon in east London to show off its augmented reality tech and beauty products.",
+      "url": "https://www.engadget.com/amazon-hair-salon-ar-color-bar-121013314.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/42314700-a1cf-11eb-bebf-5ccf19a79e99",
+      "publishedAt": "2021-04-20T12:10:13Z",
+      "content": "Amazon reinvented supermarket shopping with its checkout-less Go stores, now the e-commerce giant is applying its tech prowess to hairdressing. The company has chosen east London as the home for its … [+1791 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Microsoft to test Xbox cloud gaming on PCs, Apple mobile devices - Reuters",
+      "description": "Microsoft Corp's (MSFT.O) gaming division Xbox will roll out a beta version of its cloud gaming service on web browsers of Windows 10 PCs and Apple Inc's (AAPL.O) iPhones and iPads starting Tuesday.",
+      "url": "https://www.reuters.com/technology/microsoft-test-xbox-cloud-gaming-pcs-apple-mobile-devices-2021-04-19/",
+      "urlToImage": "https://www.reuters.com/resizer/IB0gbonrWIXwjeCzFaQVqN_GbHM=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/3L3WQJPZUZMBDFHHJIZ4CXAFQU.jpg",
+      "publishedAt": "2021-04-19T16:46:00Z",
+      "content": "The Microsoft logo is pictured ahead of the Mobile World Congress in Barcelona, Spain February 24, 2019. REUTERS/Sergio PerezMicrosoft Corp's (MSFT.O) gaming division Xbox will roll out a beta versio… [+928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Sean Keane",
+      "title": "Lego Luigi is joining Mario for buildable adventures - CNET",
+      "description": "He'll be available this August.",
+      "url": "https://www.cnet.com/news/lego-luigi-is-joining-mario-for-buildable-adventures/",
+      "urlToImage": "https://www.cnet.com/a/img/z2q-QfzJYEz1mg0jvHdbSWnjeEE=/1200x630/2021/04/20/ee968dac-18a3-4bc3-ba69-778916fda98f/71387-lego-super-mario-2hy21-reaction-01.jpg",
+      "publishedAt": "2021-04-20T13:18:14Z",
+      "content": "Lego Mario is getting some help from his brother this summer, with the Lego Super Luigi Starter Course lands Aug. 1. It'll set you back $60, is available to preorder and got a charming trailer. on Tu… [+452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Brendan Hesse",
+      "title": "How to Get Spotify's New Voice-Activated Car Thing for 'Free'",
+      "description": "Did you hear? Spotify is making a Car Thing. Yes, seriously, it’s called the Car Thing. It acts as an intermediary device that connects to your phone and your car so you can listen to Spotify through your car’s stereo even if the devices aren’t normally compa…",
+      "url": "https://lifehacker.com/how-to-get-spotifys-new-voice-activated-car-thing-for-f-1846695082",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/r9drhmzpnlcqdm84rtfz.jpg",
+      "publishedAt": "2021-04-16T14:30:00Z",
+      "content": "Did you hear? Spotify is making a Car Thing. Yes, seriously, its called the Car Thing. It acts as an intermediary device that connects to your phone and your car so you can listen to Spotify through … [+1635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Sean Endicott",
+      "title": "Microsoft Lists now optimized for iPads, letting it adapt to bigger screens",
+      "description": "Microsoft Lists should look better on iPads after its latest update.\n\n\n\nWhat you need to know\n\n\nMicrosoft Lists is now optimized for iPads.\nThe same update also enables support for conditional access related to Intune app protection policies.\nMicrosoft Lists …",
+      "url": "https://www.windowscentral.com/microsoft-lists-optimized-ipad-part-latest-update",
+      "urlToImage": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/01/microsoft-lists-ios-2020-lede.jpg",
+      "publishedAt": "2021-04-16T13:03:51Z",
+      "content": "Microsoft Lists is a relatively new app designed to help you track and organize information and your workflow across a team. It's available as a standalone app and integrates with Microsoft Teams, Ou… [+1244 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/saqib-shah",
+      "title": "Xwing completes first autonomous gate-to-gate commercial cargo flight",
+      "description": "Autonomous aviation startup Xwing has completed the first gate-to-gate commercial cargo flight using a Cessna Grand Caravan 208B utility aircraft retrofitted with its AutoFlight system.",
+      "url": "https://www.engadget.com/xwing-first-autonomous-commercial-cargo-flight-160057111.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/3639c880-9dda-11eb-8eb7-aea964475fd3",
+      "publishedAt": "2021-04-15T16:00:57Z",
+      "content": "Severalcompanies are building unmanned flying vehicles from scratch, but autonomous aviation startup Xwing is taking a different approach by focusing on software for existing aircraft. Now, the compa… [+1871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Autoblog"
+      },
+      "author": "Reuters",
+      "title": "Walmart invests in GM Cruise for autonomous deliveries",
+      "description": "Filed under:\n Autonomous,Commercial Vehicles\n Continue reading Walmart invests in GM Cruise for autonomous deliveries\nWalmart invests in GM Cruise for autonomous deliveries originally appeared on Autoblog on Fri, 16 Apr 2021 08:20:00 EDT. Please see our terms…",
+      "url": "https://www.autoblog.com/2021/04/16/walmart-invests-gm-cruise-autonomous-deliveries/",
+      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+364/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/16081946/2021-04-15T131935Z_1_LYNXMPEH3E0WG-OCATC_RTROPTP_4_CTECH-US-AUTO-AUTONOMOUS-CRUISE-FUNDING.jpg.jpg",
+      "publishedAt": "2021-04-16T12:20:00Z",
+      "content": "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the start… [+1219 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Jennifer Saba",
+      "title": "Review: Blockbuster’s demise had many culprits - Reuters",
+      "description": "In early 2000 Reed Hastings and his partner traveled to Blockbuster’s headquarters in Dallas. The Netflix founder tried to pitch the video rental behemoth on a deal to buy his fledging DVD-by-mail startup for $50 million. Blockbuster declined. Two decades lat…",
+      "url": "https://www.reuters.com/article/us-blockbuster-bankruptcy-breakingviews-idUSKBN2C3216",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210416&t=2&i=1558759578&r=LYNXMPEH3F0ZF&w=800",
+      "publishedAt": "2021-04-16T15:38:00Z",
+      "content": "NEW YORK (Reuters Breakingviews) - In early 2000 Reed Hastings and his partner traveled to Blockbusters headquarters in Dallas. The Netflix founder tried to pitch the video rental behemoth on a deal … [+4681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jennifer Locke",
+      "title": "PS5 is the fastest-selling console in U.S. history",
+      "description": "We all knew it was going to be popular.\n\nWhat you need to know\n\n\nSony's PS5 is the fastest-selling console in United States history.\nThis accounts for both unit and dollar sales within the first five months on the market.\nIt's still incredibly difficult to fi…",
+      "url": "https://www.androidcentral.com/ps5-fastest-selling-console-us-history",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/ps5-with-controller-logo-01.jpg",
+      "publishedAt": "2021-04-16T13:42:26Z",
+      "content": "March's NPD numbers have been revealed and they paint a very successful picture for the PS5. According to Mat Piscatella from the NPD Group, Sony's PS5 is the fastest-selling console in United States… [+1086 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rhett Allain",
+      "title": "How Many Homes Could You Power With Free Doughnuts?",
+      "description": "Should you get a COVID vaccine? Yes, it will protect you AND protect others to help us move past this pandemic so we can get back to a more normal life. But wait! If you get vaccinated, you can also get a doughnut! At least that's the deal that Krispy Kreme D…",
+      "url": "https://www.wired.com/story/how-many-homes-could-you-power-with-free-doughnuts/",
+      "urlToImage": "https://media.wired.com/photos/6074aa620dfeac35a0cca839/191:100/w_1280,c_limit/Science_donuts_465529983.jpg",
+      "publishedAt": "2021-04-13T12:00:00Z",
+      "content": "Should you get a Covid-19 vaccine? Yes, it will protect you and others to help us move past this pandemic and get back to a more normal life. But wait! If you get vaccinated, you can also get a dough… [+2670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Design-milk.com"
+      },
+      "author": "Katie Treggiden",
+      "title": "Model No. Turns Food Waste + Reclaimed Wood Into Home Furnishings",
+      "description": "Model No. makes bespoke furniture with short-lead times out of food waste and reclaimed wood by using the latest 3D-printing technology.",
+      "url": "https://design-milk.com/model-no-turns-food-waste-reclaimed-wood-into-home-furnishings/",
+      "urlToImage": "https://design-milk.com/images/2021/04/Featured-image-Model-No.jpg",
+      "publishedAt": "2021-04-13T15:00:11Z",
+      "content": "Model No. provides bespoke furniture with short-lead times, by using the latest 3D-printing technology. 3D-printed items are traditionally made with petroleum-based plastics, which is great for custo… [+6799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Derrek Lee",
+      "title": "Google Assistant can now complete your online food orders for you",
+      "description": "Google Assistant is becoming more useful thanks to Duplex.\n\nWhat you need to know\n\n\nGoogle is announcing several new features for Google Assistant.\nGoogle Duplex will automatically fill out your payment info when ordering online from select restaurants.\nFind …",
+      "url": "https://www.androidcentral.com/google-assistant-new-features-routines-duplex-find-my-phone-vaccine",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/google-assistant-samsung-galaxy-z-fold-2-lifestyle-01.jpg",
+      "publishedAt": "2021-04-14T16:00:02Z",
+      "content": "Source: Chris Wedel / Android Central\r\n<ul><li>Google is announcing several new features for Google Assistant.</li><li>Google Duplex will automatically fill out your payment info when ordering online… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "Apple starts $200 million fund to remove CO2 by restoring forests",
+      "description": "Apple has launched a $200 million Restore Fund to capture CO2 by reviving forests.",
+      "url": "https://www.engadget.com/apple-restore-fund-carbon-capture-143420054.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/1cccf520-9df3-11eb-9f62-3bc157771d0b",
+      "publishedAt": "2021-04-15T14:34:20Z",
+      "content": "Apple isn't completely confident it can become carbon neutral by 2030, and it's betting that a kinder attitude toward nature will help it reach that goal. The tech giant, Conservation International a… [+1404 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/devindra-hardawar",
+      "title": "AT&T will launch a 'digital learning platform' with WarnerMedia content",
+      "description": "AT&T says it's planning to launch a connected learning platform with WarnerMedia.",
+      "url": "https://www.engadget.com/att-warnermedia-digital-learning-platform-digital-divide-161523002.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-images/2020-03/b12c04f0-5ccb-11ea-affd-d39ba835175a",
+      "publishedAt": "2021-04-14T16:15:23Z",
+      "content": "In a long-winded and jargon-filled announcement celebrating AT&amp;T's $2 billion effort to bridge the digital divide over the next three years, one minor announcement stood out. The company says it'… [+1355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Brendan Hesse",
+      "title": "How to Edit Videos in Android's Google Photos App",
+      "description": "Android users can finally access Google Photos’ upgraded video editor and its more than 30 new editing tools. The new features were announced back in February and launched first on iOS, and they’re rolling out for Android users starting today.Read more...",
+      "url": "https://lifehacker.com/how-to-edit-videos-in-androids-google-photos-app-1846676682",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cudmkno9kwdlcp2dbb6o.jpg",
+      "publishedAt": "2021-04-13T21:00:00Z",
+      "content": "Android users can finally access Google Photos upgraded video editor and its more than 30 new editing tools. The new features were announced back in February and launched first on iOS, and theyre rol… [+1778 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/kris-holt",
+      "title": "Urbanista says its solar-powered headphones can basically play endlessly",
+      "description": "The Urbanista Los Angeles ANC set can convert all light into power.",
+      "url": "https://www.engadget.com/urbanista-los-angeles-anc-headphones-solar-cells-080019327.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/48ec2220-9c9f-11eb-87f6-c1da8531bb27",
+      "publishedAt": "2021-04-14T12:03:42Z",
+      "content": "Audio brand Urbanista is looking to bring an end to the problem of wireless active noise cancellation (ANC) headphones running out of power. The company claims the Powerfoyle solar cell material used… [+1843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "How to Keep Attackers From Locking You Out of WhatsApp",
+      "description": "Though the result is more annoying than dangerous, a newly exploited quirk of WhatsApp’s two-factor authentication system does appear to make it relatively easy for an attacker to lock you out of your account for varying amounts of time. And all a bad actor n…",
+      "url": "https://lifehacker.com/how-to-keep-attackers-from-locking-you-out-of-whatsapp-1846673057",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aihlr88cnugcw0jeduyg.jpg",
+      "publishedAt": "2021-04-13T18:30:00Z",
+      "content": "Though the result is more annoying than dangerous, a newly exploited quirk of WhatsApps two-factor authentication system does appear to make it relatively easy for an attacker to lock you out of your… [+3134 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Natasha Lomas",
+      "title": "Yak Tack is a super simple app to boost vocabulary",
+      "description": "Word nerds with a love for linguistic curiosities and novel nomenclature that’s more fulsome than their ability to make interesting new terms stick will be thrilled by Yak Tack: A neat little aide–mémoire (in Android and iOS app form) designed for expanding (…",
+      "url": "http://techcrunch.com/2021/04/15/yak-tack-is-a-super-simple-app-to-boost-vocabulary/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/4564071101_7ec30c7045_o.jpg?w=711",
+      "publishedAt": "2021-04-15T12:21:27Z",
+      "content": "Word nerds with a love for linguistic curiosities and novel nomenclature that’s more fulsome than their ability to make interesting new terms stick will be thrilled by Yak Tack: A neat little aide–mé… [+5201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Babu Mohan",
+      "title": "Google and Sony have joined forces to bring 360 Reality Audio to Android",
+      "description": "360 Reality Audio support on Android is currently limited to Sony's Xperia phones.\n\n\n\nWhat you need to know\n\n\nGoogle and Sony are working together to bring 360 Reality Audio support to Android devices.\nAndroid's MPEG4Extractor system component may gain suppor…",
+      "url": "https://www.androidcentral.com/google-and-sony-have-joined-forces-bring-360-reality-audio-android",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/sony-xperia-1-ii-hero.jpg",
+      "publishedAt": "2021-04-13T10:28:08Z",
+      "content": "Sony's 360 Reality Audio technology, which is currently exclusive to its flagship Xperia phones, could soon be coming to the best Android phones from other OEMs. As reported by the folks over at XDA … [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jae Thomas",
+      "title": "Save space and reduce clutter with a universal wireless charging station on sale",
+      "description": "TL;DR: Keep all your tech charged and organized with the OMNIA Q4 4-in-1 wireless charging station, on sale for 13% off. As of April 15, get it for only $59.99.\n\nUnfortunately, you need a lot of different devices to successfully work from home. What you don't…",
+      "url": "https://mashable.com/shopping/april-15-omnia-q4-4-in-1-wireless-charging-station/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F15%252F79%252F1d559d4946df4ee38f4d8af8a249410f.8036a.jpg%252F1200x630.jpg?signature=XmOaHIziHmc5gTqIpYJB2IIJ7Gs=",
+      "publishedAt": "2021-04-15T09:00:00Z",
+      "content": "TL;DR: Keep all your tech charged and organized with theOMNIA Q4 4-in-1 wireless charging station, on sale for 13% off. As of April 15, get it for only $59.99.\r\nUnfortunately, you need a lot of diffe… [+992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jerry Hildenbrand",
+      "title": "Android 12 features we love: A proper one-handed mode",
+      "description": "For big phones, this one is a must-have feature.\n\nIf you are a lover of big beautiful phones, you probably have seen a one-handed mode in the settings or have even used it — unless you have something like the Pixel 4a 5G or the Pixel 4 XL. That's because Goog…",
+      "url": "https://www.androidcentral.com/android-12-features-we-love-proper-one-handed-mode",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/one-handed-mode-pixel-5-android-12.jpg",
+      "publishedAt": "2021-04-14T12:30:02Z",
+      "content": "If you are a lover of big beautiful phones, you probably have seen a one-handed mode in the settings or have even used it unless you have something like the Pixel 4a 5G or the Pixel 4 XL. That's beca… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Harish Jonnalagadda",
+      "title": "How to make and receive calls with WhatsApp for Android",
+      "description": "Sometimes, texting just doesn't cut it. Maybe it just feels a little impersonal or maybe you just can't wait to hear a loved one's voice in real time. Thankfully, one of the features that WhatsApp introduced early on is calling, and the service offers both vo…",
+      "url": "https://www.androidcentral.com/how-place-calls-whatsapp-android",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/12/whatsapp-logo.jpg",
+      "publishedAt": "2021-04-15T13:00:02Z",
+      "content": "Sometimes, texting just doesn't cut it. Maybe it just feels a little impersonal or maybe you just can't wait to hear a loved one's voice in real time. Thankfully, one of the features that WhatsApp in… [+2776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Sami Fathi",
+      "title": "Android 12 Leak Reveals iOS 14-Style Clipboard Access Notification",
+      "description": "A new leak from XDA Developer shows that with Android 12 slated for release later in February, Google plans to introduce a new notification that's displayed to users when an app accesses their clipboard.\n\n\n\n\n\nWith iOS 14, Apple introduced a small banner at th…",
+      "url": "https://www.macrumors.com/2021/04/14/android-12-ios-14-style-clipboard-notification/",
+      "urlToImage": "https://images.macrumors.com/t/rRkTYxUk3B8gbKFjDLPLZMAWlow=/1920x/https://images.macrumors.com/article-new/2021/04/android-12-clipboard-access-ios-14-style.jpg",
+      "publishedAt": "2021-04-14T08:15:59Z",
+      "content": "A new leak from XDA Developer shows that with Android 12 slated for release later in February, Google plans to introduce a new notification that's displayed to users when an app accesses their clipbo… [+1039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Brendan Hesse",
+      "title": "How to Download Xbox Game Pass Games With Alexa",
+      "description": "Amazon and Microsoft recently announced a collaboration that lets Xbox Game Pass subscribers download games and get the latest updates about the service using Alexa commands.Read more...",
+      "url": "https://lifehacker.com/how-to-download-xbox-game-pass-games-with-alexa-1846685722",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/hif1t28cisjtanwbzveh.jpg",
+      "publishedAt": "2021-04-15T14:00:00Z",
+      "content": "Amazon and Microsoft recently announced a collaboration that lets Xbox Game Pass subscribers download games and get the latest updates about the service using Alexa commands.\r\nThe Alexa integration i… [+1946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Ara Wagoner",
+      "title": "How to send files from your phone to your Chromebook using Nearby Share",
+      "description": "If you want to move files from your phone to the best Chromebooks, there's a variety of ways to do it. From plugging in a USB cable like it's 2009 to using Google Drive as a file transfer server, you've got options. But with the arrival of Chrome OS 89, you h…",
+      "url": "https://www.androidcentral.com/how-send-files-your-phone-your-chromebook-using-nearby-share",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/nearby-share-chromebook-hero-waiting-to-confirm.jpg",
+      "publishedAt": "2021-04-15T14:00:03Z",
+      "content": "If you want to move files from your phone to the best Chromebooks, there's a variety of ways to do it. From plugging in a USB cable like it's 2009 to using Google Drive as a file transfer server, you… [+3221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jeramy Johnson",
+      "title": "Surprisingly, this Google app is better on iOS than on Android",
+      "description": "Chrome is just more user-friendly on iOS.\n\n\n\nAs a site focused on the best Android phones, Chromebooks, and Google software and services, we don't often consider what life is like on the other side of the OS spectrum. You know who I'm talking about here... th…",
+      "url": "https://www.androidcentral.com/call-me-crazy-i-prefer-ios-google-chrome-app-androids",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/04/chrome-ios-hero-3.jpg",
+      "publishedAt": "2021-04-15T10:30:02Z",
+      "content": "Source: Jeramy Johnson / Android Central\r\nAs a site focused on the best Android phones, Chromebooks, and Google software and services, we don't often consider what life is like on the other side of t… [+4079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Brendan Hesse",
+      "title": "Learn the Secret Language of Apple Serial Numbers (While You Still Can)",
+      "description": "Apple is planning to reformat its serial numbers for Macs and MacBook this year. Currently, Macs use the same 12-digit alphanumeric serial codes as other Apple products, but Apple will soon switch them to randomized strings between 8 and 12 characters long.Re…",
+      "url": "https://lifehacker.com/learn-the-secret-language-of-apple-serial-numbers-whil-1846693527",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/brqgqs1xpgk0ov85yrdd.jpg",
+      "publishedAt": "2021-04-15T21:00:00Z",
+      "content": "Apple is planning to reformat its serial numbers for Macs and MacBook this year. Currently, Macs use the same 12-digit alphanumeric serial codes as other Apple products, but Apple will soon switch th… [+3651 chars]"
+    },
+
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Siri says next Apple event is April 20th",
+      "description": "Siri appears to have spilled the beans on the next Apple launch event on April 20th. The company is widely expected to reveal its new iPad Pros at the event, featuring upgraded USB-C ports and a Mini LED display.",
+      "url": "https://www.theverge.com/2021/4/13/22381336/siri-apple-event-april-20th-ipad-pro-announcement-launch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BqIIrX_Kg-1fOLAchfW7fHwvRMc=/0x108:1500x893/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22440344/image__5_.jpg",
+      "publishedAt": "2021-04-13T07:44:27Z",
+      "content": "Apples voice assistant appears to spill the beans\r\nAsking Siri, When is the next Apple Event generates the following response.\r\nScreenshot by Thomas Ricker / The Verge\r\nSiri appears to have spilled t… [+2091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "What to Do If You Get a Bad Trade-In Offer From Apple",
+      "description": "Does this sound familiar? You’ve taken such good care of your older MacBook that Tim Cook himself wouldn’t be able to tell it from a fresh out-of-the-box model. You’ve fawned over it, protected it from harm, and are now ready to trade it in for something newe…",
+      "url": "https://lifehacker.com/what-to-do-if-you-get-a-bad-trade-in-offer-from-apple-1846684998",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/wf3uvutamsr3shgx0dul.jpg",
+      "publishedAt": "2021-04-15T13:30:00Z",
+      "content": "Does this sound familiar? Youve taken such good care of your older MacBook that Tim Cook himself wouldnt be able to tell it from a fresh out-of-the-box model. Youve fawned over it, protected it from … [+5455 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Three reasons why Epic Games can give away $17.5 billion worth of games for free",
+      "description": "New documents published as part of the legal discovery process for Epic’s major antitrust lawsuit against Apple shed some light into how Epic can afford to give away billions of dollars of free games on the Epic Games Store.",
+      "url": "https://www.theverge.com/2021/4/12/22380895/epic-games-store-afford-give-away-17-5-billion-free-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qvX4e62Xwf4KSZ_X0gr2qmZa2GA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21768196/acastro_20200818_1777_epicApple_0002.0.jpg",
+      "publishedAt": "2021-04-13T00:55:01Z",
+      "content": "To start with, Tim Sweeney has revealed its not paying per copy\r\nIllustration by Alex Castro / The Verge\r\nThe Epic Games Store gives away free every games every week often good ones and yet the compa… [+3722 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Daily Crunch: Spotify unveils an in-car entertainment system",
+      "description": "Spotify wants to have a bigger presence in your car, Apple hints at iPad-centric announcements and Microsoft’s new Surface Laptop goes on sale. This is your Daily Crunch for April 13, 2021. The big story: Spotify unveils an in-car entertainment system Spotify…",
+      "url": "http://techcrunch.com/2021/04/13/daily-crunch-spotify-unveils-an-in-car-entertainment-system/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/Car-Thing-Front-Zoom.jpg?w=533",
+      "publishedAt": "2021-04-13T22:43:44Z",
+      "content": "Spotify wants to have a bigger presence in your car, Apple hints at iPad-centric announcements and Microsoft’s new Surface Laptop goes on sale. This is your Daily Crunch for April 13, 2021.\r\nThe big … [+3233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Again Rumored to Be Readying Third-Generation Apple Pencil",
+      "description": "Apple is preparing to release a third-generation Apple Pencil, according to a leaker on the Chinese social networking platform Weibo, suggesting it could conceivably appear alongside new iPads at Apple's upcoming \"Spring Loaded\" April event.\n\n\n\nImage via Mr W…",
+      "url": "https://www.macrumors.com/2021/04/15/apple-pencil-3-again-rumored/",
+      "urlToImage": "https://images.macrumors.com/t/I1RqChd7lmHfuWhTUbT1MeVXct8=/1600x/https://images.macrumors.com/article-new/2021/03/apple-pencil-3-leak.jpg",
+      "publishedAt": "2021-04-15T11:51:20Z",
+      "content": "Apple is preparing to release a third-generation Apple Pencil, according to a leaker on the Chinese social networking platform Weibo, suggesting it could conceivably appear alongside new iPads at App… [+1857 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joanna Nelius",
+      "title": "You Can Now Run Windows 10 on Apple's M1 Macs...Sort Of",
+      "description": "Anyone looking for a way to run Windows 10 on a new Mac with Apple Silicon now has an easy, reliable option. Parallels just released a new version of its virtual desktop tool, Desktop 16.5, that supports Windows 10 on M1 Macs.Read more...",
+      "url": "https://gizmodo.com/you-can-now-run-windows-10-on-apples-m1-macs-sort-of-1846682765",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/szz80zadmhc0lpszdmwa.jpg",
+      "publishedAt": "2021-04-14T18:15:00Z",
+      "content": "Anyone looking for a way to run Windows 10 on a new Mac with Apple Silicon now has an easy, reliable option. Parallels just released a new version of its virtual desktop tool, Desktop 16.5, that supp… [+2574 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jae Thomas",
+      "title": "Save space and reduce clutter with a universal wireless charging station on sale",
+      "description": "TL;DR: Keep all your tech charged and organized with the OMNIA Q4 4-in-1 wireless charging station, on sale for 13% off. As of April 15, get it for only $59.99.\n\nUnfortunately, you need a lot of different devices to successfully work from home. What you don't…",
+      "url": "https://mashable.com/shopping/april-15-omnia-q4-4-in-1-wireless-charging-station/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F15%252F79%252F1d559d4946df4ee38f4d8af8a249410f.8036a.jpg%252F1200x630.jpg?signature=XmOaHIziHmc5gTqIpYJB2IIJ7Gs=",
+      "publishedAt": "2021-04-15T09:00:00Z",
+      "content": "TL;DR: Keep all your tech charged and organized with theOMNIA Q4 4-in-1 wireless charging station, on sale for 13% off. As of April 15, get it for only $59.99.\r\nUnfortunately, you need a lot of diffe… [+992 chars]"
+    },
+
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Haley Henschel",
+      "title": "Need last-minute help filing your taxes? TurboTax software is on sale on Amazon.",
+      "description": "Select TurboTax tax prep software is on sale on Amazon as of April 13:\n<ul>\n<li>BEST FOR INDIVIDUALS: TurboTax Deluxe — save $10\r\n</li>\n<li>BEST FOR INVESTORS AND LANDLORDS: TurboTax Premier — save $20.09\r\n</li>\n<li>BEST FOR FREELANCERS AND SMALL BUSINESS OWN…",
+      "url": "https://mashable.com/shopping/april-13-turbotax-tax-prep-software/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F13%252F92%252F1039c0503a274ee3b7fa86eab5b5bb7f.e58b0.png%252F1200x630.png?signature=_oqlKFMHQDKJypyu3-bPnYf3CfU=",
+      "publishedAt": "2021-04-13T17:05:03Z",
+      "content": "Select TurboTax tax prep software is on sale on Amazon as of April 13:\r\nStill haven't filed your taxes for 2020? This isn't normally something we'd say in mid-April, but you may not be totally SOL: A… [+3707 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jae Thomas",
+      "title": "Edit, convert, and manage PDFs with this software on sale",
+      "description": "TL;DR: Edit PDFs seamlessly with PDF Pro 2, on sale for $29.99 — a 57% savings — as of April 15.\n\nPDFs retain formatting, preserve high-quality artwork, and still maintain a relatively small file size. Yet despite all of their redeeming qualities, PDFs are al…",
+      "url": "https://mashable.com/shopping/april-15-ashampoo-pdf-pro-2/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F15%252F29%252F68b6fb5e3238447ea66ba1c93d03eafd.41d0c.jpg%252F1200x630.jpg?signature=JbMpVmiPOz4vSFZ-SyiJaH9auh4=",
+      "publishedAt": "2021-04-15T09:00:00Z",
+      "content": "TL;DR: Edit PDFs seamlessly withPDF Pro 2, on sale for $29.99 a 57% savings as of April 15.\r\nPDFs retain formatting, preserve high-quality artwork, and still maintain a relatively small file size. Ye… [+964 chars]"
+    },
+
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Brian Heater",
+      "title": "Microsoft is really pushing Teams with its latest accessories",
+      "description": "The new Surface Laptop was the marquee arrival in today’s Microsoft announcement, but boy howdy, the company also dropped a whole bunch of new accessories. It’s a pretty broad range of new devices, including some small updates to existing products and entirel…",
+      "url": "http://techcrunch.com/2021/04/13/microsoft-is-really-pushing-teams-with-its-latest-accessories/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/Surface-Headphones-2-4-1.jpg?w=711",
+      "publishedAt": "2021-04-13T13:00:14Z",
+      "content": "The new Surface Laptop was the marquee arrival in todays Microsoft announcement, but boy howdy, the company also dropped a whole bunch of new accessories. Its a pretty broad range of new devices, inc… [+2034 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft announces new webcam and USB-C speaker for the work from home era",
+      "description": "Microsoft is launching a new 1080p webcam and USB-C speaker in June. Both devices are designed for the work from home era, to improve audio and video quality on remote calls.",
+      "url": "https://www.theverge.com/22381422/microsoft-new-webcam-headsets-usb-c-speaker-features-price-specs-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jI5-mcZnc4RJ6VHKNRLrWnqMpgo=/0x170:2379x1416/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22440418/microsoftmodernwebcam.jpg",
+      "publishedAt": "2021-04-13T13:00:00Z",
+      "content": "Both devices are designed to improve video and audio calls\r\nMicrosofts new Modern Webcam and USB-C Speaker.\r\nImage: Microsoft\r\nMicrosofts long-awaited new webcam is finally here, alongside a number o… [+1795 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Ford takes aim at Tesla, GM with its new hands-free driving system",
+      "description": "Ford will debut its new hands-free driving feature on the 2021 F-150 pickup truck and certain 2021 Mustang Mach-E models through a software update later this year, technology that the automaker developed to rival similar systems from Tesla and GM. That hands-…",
+      "url": "http://techcrunch.com/2021/04/14/ford-takes-aim-at-tesla-gm-with-its-new-hands-free-driving-system/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/BlueCruise_Mustang_Mach-E_01.jpg?w=598",
+      "publishedAt": "2021-04-14T19:48:58Z",
+      "content": "Ford will debut its new hands-free driving feature on the 2021 F-150 pickup truck and certain 2021 Mustang Mach-E models through a software update later this year, technology that the automaker devel… [+3820 chars]"
+    }
+  ]
+}
