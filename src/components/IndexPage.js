@@ -1,50 +1,60 @@
 import React from "react";
+import { withRouter } from "react-router-dom";
+import suitOneImage from "../images/suitone.webp";
+import suitTwoImage from "../images/suittwo.webp";
+import suitThreeImage from "../images/suitthree.webp";
+import suitFourImage from "../images/suitfour.webp";
+import suitFiveImage from "../images/suitfive.webp";
+import suitSixImage from "../images/suitsix.webp";
 
-import Section from "./Section";
-import splashImg from "../splash.png";
+import Card from "./Card";
 
-class IndexPage extends React.PureComponent {
-  render() {
-    return (
-      <div>
-        <div className="Hero">
-          <div className="HeroGroup">
-            <h1>
-              News App <br />
-              International
-            </h1>
-            <p>The future of news is here</p>
-          </div>
-        </div>
-
-        <div id="contact">
-          <Section
-            height="500"
-            image={splashImg}
-            title="About"
-            text="The technologies used in this website are HTML-5, CSS3, JavaScript, JSX, React JS, Redux, Node JS, Mongo DB, Express JS, Heroku, and Netlify. To get a copy of this codebase scroll down to latest news."
+function IndexPage() {
+  return (
+    <div className="Cards">
+      <h2>Suit Store</h2>
+      <div className="Card-Flex-Box">
+        <div className="CardGroup">
+          <Card
+            title="Classic Black Wool-blend Tuxedo"
+            text="Click to order"
+            image={suitOneImage}
+            price="$199"
           />
-        </div>
-        <div id="contact">
-          <Section
-            height="500"
-            image={splashImg}
-            title="Privacy"
-            text="News App International does not collect, sell, or store data."
+          <Card
+            title="Extra Slim Black Suit"
+            text="Click to order"
+            image={suitTwoImage}
+            price="$199"
           />
-        </div>
-        <div id="contact">
-          <Section
-            height="500"
-            image={splashImg}
-            title="Latest News"
-            text="We are pleased to announce that you can look at the CSS code and replicate this idea/invention for free, just get a good coder tell him to look at the Card class. You can get all the free code you want in this github repo including examples of this code to sell items, is millions of dollars in clean bugless regression free code "
-            url="https://github.com/hectorgomez74343?tab=repositories"
+          <Card
+            title="Extra Slim Solid Gray Suit"
+            text="Click to order"
+            image={suitThreeImage}
+            price="$199"
+          />
+          <Card
+            title="Slim Textured Navy Suit"
+            text="Click to order"
+            image={suitFourImage}
+            price="$199"
+          />
+          <Card
+            title="Classic Textured Gray Suit"
+            text="Click to order"
+            image={suitFiveImage}
+            price="$199"
+          />
+          <Card
+            title="Extra Slim Gray Tech Suit"
+            text="Click to order"
+            image={suitSixImage}
+            price="$199"
           />
         </div>
       </div>
-    );
-  }
+    </div>
+  );
 }
 
-export default IndexPage;
+export default withRouter(IndexPage);

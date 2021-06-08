@@ -1,10 +1,10 @@
 import { createStore, applyMiddleware, compose } from "redux";
 import reduxThunk from "redux-thunk";
 import { combineReducers } from "redux";
-import paymentReducer from "./reducers/paymentReducer";
+import ordersReducer from "./reducers/ordersReducer";
 
 const reducers = combineReducers({
-  paymentReducer,
+  ordersReducer,
 });
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
