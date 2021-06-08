@@ -2,14 +2,14 @@ import React from "react";
 import { Switch, withRouter, Route } from "react-router-dom";
 
 import IndexPage from "./components/IndexPage";
-import Inventions from "./components/Inventions";
+import News from "./components/News";
 
 class App extends React.PureComponent {
   render() {
     return (
       <Switch>
-        <Route exact path="/" render={() => <IndexPage />} />
-        <Route exact path="/inventions" render={() => <Inventions />} />
+        <Route exact path="/" render={() => <News />} />
+        <Route exact path="/info" render={() => <IndexPage />} />
       </Switch>
     );
   }
